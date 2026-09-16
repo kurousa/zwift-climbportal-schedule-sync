@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Cipressa - Daily Climb (Watopia)
 DTSTART:20260901
 DTEND:20260902
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260901-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Cipressa\nType: Daily Climb\nWorld: Watopi
@@ -23,7 +23,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260901
 DTEND:20260902
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260901-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -37,7 +37,7 @@ SUMMARY:[Zwift Climb] Col de Peyresourde (Avajan) (500 XP) - Climb of the
  Week (France)
 DTSTART:20260901
 DTEND:20260902
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260901-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Col de Peyresourde (Avajan)\nType: Climb o
@@ -50,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Gotthard Pass - Daily Climb (Watopia)
 DTSTART:20260902
 DTEND:20260903
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260902-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Gotthard Pass\nType: Daily Climb\nWorld: W
@@ -63,7 +63,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260902
 DTEND:20260903
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260902-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -77,7 +77,7 @@ SUMMARY:[Zwift Climb] Col de Peyresourde (Avajan) (500 XP) - Climb of the
  Week (France)
 DTSTART:20260902
 DTEND:20260903
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260902-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Col de Peyresourde (Avajan)\nType: Climb o
@@ -90,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col d’Aspin - Daily Climb (Watopia)
 DTSTART:20260903
 DTEND:20260904
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260903-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col d’Aspin\nType: Daily Climb\nWorld: W
@@ -103,7 +103,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260903
 DTEND:20260904
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260903-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -117,7 +117,7 @@ SUMMARY:[Zwift Climb] Col de Peyresourde (Avajan) (500 XP) - Climb of the
  Week (France)
 DTSTART:20260903
 DTEND:20260904
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260903-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Col de Peyresourde (Avajan)\nType: Climb o
@@ -130,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Cheddar Gorge - Daily Climb (Watopia)
 DTSTART:20260904
 DTEND:20260905
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260904-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Cheddar Gorge\nType: Daily Climb\nWorld: W
@@ -143,7 +143,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260904
 DTEND:20260905
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260904-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -157,7 +157,7 @@ SUMMARY:[Zwift Climb] Col de Peyresourde (Avajan) (500 XP) - Climb of the
  Week (France)
 DTSTART:20260904
 DTEND:20260905
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260904-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Col de Peyresourde (Avajan)\nType: Climb o
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col des Aravis - Daily Climb (Watopia)
 DTSTART:20260905
 DTEND:20260906
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260905-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col des Aravis\nType: Daily Climb\nWorld: 
@@ -183,7 +183,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260905
 DTEND:20260906
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260905-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -197,7 +197,7 @@ SUMMARY:[Zwift Climb] Col de Peyresourde (Avajan) (500 XP) - Climb of the
  Week (France)
 DTSTART:20260905
 DTEND:20260906
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260905-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Col de Peyresourde (Avajan)\nType: Climb o
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col de la Croix de Fer - Daily Climb (Watopia)
 DTSTART:20260906
 DTEND:20260907
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260906-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col de la Croix de Fer\nType: Daily Climb
@@ -224,7 +224,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260906
 DTEND:20260907
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260906-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -238,7 +238,7 @@ SUMMARY:[Zwift Climb] Col de Peyresourde (Avajan) (500 XP) - Climb of the
  Week (France)
 DTSTART:20260906
 DTEND:20260907
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260906-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Col de Peyresourde (Avajan)\nType: Climb o
@@ -251,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Cote de Pike - Daily Climb (Watopia)
 DTSTART:20260907
 DTEND:20260908
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260907-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Cote de Pike\nType: Daily Climb\nWorld: Wa
@@ -264,7 +264,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260907
 DTEND:20260908
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260907-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -278,7 +278,7 @@ SUMMARY:[Zwift Climb] Cote de Trebiac (250 XP) - Climb of the Week (France
  )
 DTSTART:20260907
 DTEND:20260908
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260907-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote de Trebiac\nType: Climb of the Week\n
@@ -291,7 +291,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Pla d'Adet - Daily Climb (Watopia)
 DTSTART:20260908
 DTEND:20260909
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260908-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Pla d'Adet\nType: Daily Climb\nWorld: Wato
@@ -304,7 +304,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260908
 DTEND:20260909
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260908-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -318,7 +318,7 @@ SUMMARY:[Zwift Climb] Cote de Trebiac (250 XP) - Climb of the Week (France
  )
 DTSTART:20260908
 DTEND:20260909
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260908-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote de Trebiac\nType: Climb of the Week\n
@@ -331,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hardknott Pass - Daily Climb (Watopia)
 DTSTART:20260909
 DTEND:20260910
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260909-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Hardknott Pass\nType: Daily Climb\nWorld: 
@@ -344,7 +344,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260909
 DTEND:20260910
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260909-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -358,7 +358,7 @@ SUMMARY:[Zwift Climb] Cote de Trebiac (250 XP) - Climb of the Week (France
  )
 DTSTART:20260909
 DTEND:20260910
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260909-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote de Trebiac\nType: Climb of the Week\n
@@ -371,7 +371,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Alto de Patios - Daily Climb (Watopia)
 DTSTART:20260910
 DTEND:20260911
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260910-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Alto de Patios\nType: Daily Climb\nWorld: 
@@ -384,7 +384,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260910
 DTEND:20260911
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260910-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -398,7 +398,7 @@ SUMMARY:[Zwift Climb] Cote de Trebiac (250 XP) - Climb of the Week (France
  )
 DTSTART:20260910
 DTEND:20260911
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260910-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote de Trebiac\nType: Climb of the Week\n
@@ -411,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Isola 2000 - Daily Climb (Watopia)
 DTSTART:20260911
 DTEND:20260912
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260911-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Isola 2000\nType: Daily Climb\nWorld: Wato
@@ -424,7 +424,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260911
 DTEND:20260912
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260911-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -438,7 +438,7 @@ SUMMARY:[Zwift Climb] Cote de Trebiac (250 XP) - Climb of the Week (France
  )
 DTSTART:20260911
 DTEND:20260912
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260911-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote de Trebiac\nType: Climb of the Week\n
@@ -451,7 +451,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Bealach na Bà - Daily Climb (Watopia)
 DTSTART:20260912
 DTEND:20260913
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260912-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Bealach na Bà\nType: Daily Climb\nWorld: 
@@ -464,7 +464,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260912
 DTEND:20260913
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260912-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -478,7 +478,7 @@ SUMMARY:[Zwift Climb] Cote de Trebiac (250 XP) - Climb of the Week (France
  )
 DTSTART:20260912
 DTEND:20260913
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260912-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote de Trebiac\nType: Climb of the Week\n
@@ -491,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Daily Climb (Watopia)
 DTSTART:20260913
 DTEND:20260914
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260913-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Daily Climb\nWo
@@ -504,7 +504,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260913
 DTEND:20260914
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260913-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -518,7 +518,7 @@ SUMMARY:[Zwift Climb] Cote de Trebiac (250 XP) - Climb of the Week (France
  )
 DTSTART:20260913
 DTEND:20260914
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260913-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote de Trebiac\nType: Climb of the Week\n
@@ -531,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Mûr de Bretagne - Daily Climb (Watopia)
 DTSTART:20260914
 DTEND:20260915
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260914-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Mûr de Bretagne\nType: Daily Climb\nWorld
@@ -544,7 +544,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260914
 DTEND:20260915
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260914-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -558,7 +558,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Lautaret) - Climb of the Week (Fran
  ce)
 DTSTART:20260914
 DTEND:20260915
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260914-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Lautaret)\nType: Climb of
@@ -571,7 +571,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Côte de La Redoute - Daily Climb (Watopia)
 DTSTART:20260915
 DTEND:20260916
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260915-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Côte de La Redoute\nType: Daily Climb\nWo
@@ -584,7 +584,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260915
 DTEND:20260916
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260915-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -598,7 +598,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Lautaret) - Climb of the Week (Fran
  ce)
 DTSTART:20260915
 DTEND:20260916
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260915-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Lautaret)\nType: Climb of
@@ -611,7 +611,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] La Turbie + Col d'Eze - Daily Climb (Watopia)
 DTSTART:20260916
 DTEND:20260917
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260916-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: La Turbie + Col d'Eze\nType: Daily Climb\n
@@ -624,7 +624,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260916
 DTEND:20260917
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260916-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -638,7 +638,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Lautaret) - Climb of the Week (Fran
  ce)
 DTSTART:20260916
 DTEND:20260917
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260916-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Lautaret)\nType: Climb of
@@ -651,7 +651,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Coll d'Ordino - Daily Climb (Watopia)
 DTSTART:20260917
 DTEND:20260918
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260917-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Coll d'Ordino\nType: Daily Climb\nWorld: W
@@ -664,7 +664,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260917
 DTEND:20260918
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260917-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -678,7 +678,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Lautaret) - Climb of the Week (Fran
  ce)
 DTSTART:20260917
 DTEND:20260918
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260917-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Lautaret)\nType: Climb of
@@ -691,7 +691,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] La Laguna Negra - Daily Climb (Watopia)
 DTSTART:20260918
 DTEND:20260919
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260918-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: La Laguna Negra\nType: Daily Climb\nWorld:
@@ -703,7 +703,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260918
 DTEND:20260919
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260918-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -717,7 +717,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Lautaret) - Climb of the Week (Fran
  ce)
 DTSTART:20260918
 DTEND:20260919
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260918-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Lautaret)\nType: Climb of
@@ -730,7 +730,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Trollstigen - Daily Climb (Watopia)
 DTSTART:20260919
 DTEND:20260920
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260919-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Trollstigen\nType: Daily Climb\nWorld: Wat
@@ -743,7 +743,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260919
 DTEND:20260920
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260919-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -757,7 +757,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Lautaret) - Climb of the Week (Fran
  ce)
 DTSTART:20260919
 DTEND:20260920
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260919-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Lautaret)\nType: Climb of
@@ -770,7 +770,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col de Sarenne - Daily Climb (Watopia)
 DTSTART:20260920
 DTEND:20260921
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260920-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col de Sarenne\nType: Daily Climb\nWorld: 
@@ -783,7 +783,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260920
 DTEND:20260921
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260920-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -797,7 +797,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Lautaret) - Climb of the Week (Fran
  ce)
 DTSTART:20260920
 DTEND:20260921
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260920-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Lautaret)\nType: Climb of
@@ -810,7 +810,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Old La Honda - Daily Climb (Watopia)
 DTSTART:20260921
 DTEND:20260922
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260921-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Old La Honda\nType: Daily Climb\nWorld: Wa
@@ -823,7 +823,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260921
 DTEND:20260922
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260921-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -836,7 +836,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Crow Road - Climb of the Week (France)
 DTSTART:20260921
 DTEND:20260922
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260921-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Crow Road\nType: Climb of the Week\nWorld:
@@ -848,7 +848,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Oude Kwaremont - Daily Climb (Watopia)
 DTSTART:20260922
 DTEND:20260923
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260922-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Oude Kwaremont\nType: Daily Climb\nWorld: 
@@ -861,7 +861,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260922
 DTEND:20260923
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260922-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -874,7 +874,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Crow Road - Climb of the Week (France)
 DTSTART:20260922
 DTEND:20260923
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260922-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Crow Road\nType: Climb of the Week\nWorld:
@@ -886,7 +886,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col de la Croix Saint-Robert - Daily Climb (Watopia)
 DTSTART:20260923
 DTEND:20260924
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260923-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col de la Croix Saint-Robert\nType: Daily 
@@ -900,7 +900,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260923
 DTEND:20260924
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260923-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -913,7 +913,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Crow Road - Climb of the Week (France)
 DTSTART:20260923
 DTEND:20260924
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260923-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Crow Road\nType: Climb of the Week\nWorld:
@@ -925,7 +925,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Rosier - Daily Climb (Watopia)
 DTSTART:20260924
 DTEND:20260925
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260924-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col du Rosier\nType: Daily Climb\nWorld: W
@@ -938,7 +938,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260924
 DTEND:20260925
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260924-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -951,7 +951,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Crow Road - Climb of the Week (France)
 DTSTART:20260924
 DTEND:20260925
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260924-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Crow Road\nType: Climb of the Week\nWorld:
@@ -963,7 +963,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col de la Madone - Daily Climb (Watopia)
 DTSTART:20260925
 DTEND:20260926
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260925-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col de la Madone\nType: Daily Climb\nWorld
@@ -976,7 +976,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260925
 DTEND:20260926
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260925-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -989,7 +989,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Crow Road - Climb of the Week (France)
 DTSTART:20260925
 DTEND:20260926
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260925-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Crow Road\nType: Climb of the Week\nWorld:
@@ -1001,7 +1001,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Lagos de Covadonga - Daily Climb (Watopia)
 DTSTART:20260926
 DTEND:20260927
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260926-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Lagos de Covadonga\nType: Daily Climb\nWor
@@ -1014,7 +1014,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260926
 DTEND:20260927
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260926-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -1027,7 +1027,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Crow Road - Climb of the Week (France)
 DTSTART:20260926
 DTEND:20260927
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260926-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Crow Road\nType: Climb of the Week\nWorld:
@@ -1039,7 +1039,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Mt Fuji - Daily Climb (Watopia)
 DTSTART:20260927
 DTEND:20260928
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260927-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Mt Fuji\nType: Daily Climb\nWorld: Watopia
@@ -1052,7 +1052,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260927
 DTEND:20260928
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260927-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -1065,7 +1065,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Crow Road - Climb of the Week (France)
 DTSTART:20260927
 DTEND:20260928
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260927-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Crow Road\nType: Climb of the Week\nWorld:
@@ -1077,7 +1077,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Mt. Hamilton - Daily Climb (Watopia)
 DTSTART:20260928
 DTEND:20260929
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260928-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Mt. Hamilton\nType: Daily Climb\nWorld: Wa
@@ -1090,7 +1090,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260928
 DTEND:20260929
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260928-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -1104,7 +1104,7 @@ SUMMARY:[Zwift Climb] Montée du Chinaillon (500 XP) - Climb of the Week (
  France)
 DTSTART:20260928
 DTEND:20260929
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260928-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Montée du Chinaillon\nType: Climb of the 
@@ -1117,7 +1117,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Tourmalet - Daily Climb (Watopia)
 DTSTART:20260929
 DTEND:20260930
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260929-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col du Tourmalet\nType: Daily Climb\nWorld
@@ -1130,7 +1130,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260929
 DTEND:20260930
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260929-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -1144,7 +1144,7 @@ SUMMARY:[Zwift Climb] Montée du Chinaillon (500 XP) - Climb of the Week (
  France)
 DTSTART:20260929
 DTEND:20260930
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260929-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Montée du Chinaillon\nType: Climb of the 
@@ -1157,7 +1157,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Rocacorba - Daily Climb (Watopia)
 DTSTART:20260930
 DTEND:20261001
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260930-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Rocacorba\nType: Daily Climb\nWorld: Watop
@@ -1170,7 +1170,7 @@ SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Climb of the Month (Fra
  nce)
 DTSTART:20260930
 DTEND:20261001
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260930-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Climb of
@@ -1184,7 +1184,7 @@ SUMMARY:[Zwift Climb] Montée du Chinaillon (500 XP) - Climb of the Week (
  France)
 DTSTART:20260930
 DTEND:20261001
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20260930-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Montée du Chinaillon\nType: Climb of the 
@@ -1197,7 +1197,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Rosier (250 XP) - Climb of the Week (France)
 DTSTART:20261001
 DTEND:20261002
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261001-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Col du Rosier\nType: Climb of the Week\nWo
@@ -1210,7 +1210,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Rosier (250 XP) - Climb of the Week (France)
 DTSTART:20261002
 DTEND:20261003
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261002-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Col du Rosier\nType: Climb of the Week\nWo
@@ -1223,7 +1223,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Rosier (250 XP) - Climb of the Week (France)
 DTSTART:20261003
 DTEND:20261004
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261003-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Col du Rosier\nType: Climb of the Week\nWo
@@ -1236,7 +1236,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Rosier (250 XP) - Climb of the Week (France)
 DTSTART:20261004
 DTEND:20261005
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261004-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Col du Rosier\nType: Climb of the Week\nWo
@@ -1250,7 +1250,7 @@ SUMMARY:[Zwift Climb] Mûr de Bretagne (15k Drops) - Climb of the Week (Fr
  ance)
 DTSTART:20261005
 DTEND:20261006
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261005-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Mûr de Bretagne (15k Drops)\nType: Climb 
@@ -1264,7 +1264,7 @@ SUMMARY:[Zwift Climb] Mûr de Bretagne (15k Drops) - Climb of the Week (Fr
  ance)
 DTSTART:20261006
 DTEND:20261007
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261006-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Mûr de Bretagne (15k Drops)\nType: Climb 
@@ -1278,7 +1278,7 @@ SUMMARY:[Zwift Climb] Mûr de Bretagne (15k Drops) - Climb of the Week (Fr
  ance)
 DTSTART:20261007
 DTEND:20261008
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261007-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Mûr de Bretagne (15k Drops)\nType: Climb 
@@ -1292,7 +1292,7 @@ SUMMARY:[Zwift Climb] Mûr de Bretagne (15k Drops) - Climb of the Week (Fr
  ance)
 DTSTART:20261008
 DTEND:20261009
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261008-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Mûr de Bretagne (15k Drops)\nType: Climb 
@@ -1306,7 +1306,7 @@ SUMMARY:[Zwift Climb] Mûr de Bretagne (15k Drops) - Climb of the Week (Fr
  ance)
 DTSTART:20261009
 DTEND:20261010
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261009-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Mûr de Bretagne (15k Drops)\nType: Climb 
@@ -1320,7 +1320,7 @@ SUMMARY:[Zwift Climb] Mûr de Bretagne (15k Drops) - Climb of the Week (Fr
  ance)
 DTSTART:20261010
 DTEND:20261011
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261010-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Mûr de Bretagne (15k Drops)\nType: Climb 
@@ -1334,7 +1334,7 @@ SUMMARY:[Zwift Climb] Mûr de Bretagne (15k Drops) - Climb of the Week (Fr
  ance)
 DTSTART:20261011
 DTEND:20261012
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261011-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Mûr de Bretagne (15k Drops)\nType: Climb 
@@ -1348,7 +1348,7 @@ SUMMARY:[Zwift Climb] Cote des Forche (250 XP) - Climb of the Week (France
  )
 DTSTART:20261012
 DTEND:20261013
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261012-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote des Forche\nType: Climb of the Week\n
@@ -1362,7 +1362,7 @@ SUMMARY:[Zwift Climb] Cote des Forche (250 XP) - Climb of the Week (France
  )
 DTSTART:20261013
 DTEND:20261014
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261013-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote des Forche\nType: Climb of the Week\n
@@ -1376,7 +1376,7 @@ SUMMARY:[Zwift Climb] Cote des Forche (250 XP) - Climb of the Week (France
  )
 DTSTART:20261014
 DTEND:20261015
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261014-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote des Forche\nType: Climb of the Week\n
@@ -1390,7 +1390,7 @@ SUMMARY:[Zwift Climb] Cote des Forche (250 XP) - Climb of the Week (France
  )
 DTSTART:20261015
 DTEND:20261016
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261015-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote des Forche\nType: Climb of the Week\n
@@ -1404,7 +1404,7 @@ SUMMARY:[Zwift Climb] Cote des Forche (250 XP) - Climb of the Week (France
  )
 DTSTART:20261016
 DTEND:20261017
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261016-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote des Forche\nType: Climb of the Week\n
@@ -1418,7 +1418,7 @@ SUMMARY:[Zwift Climb] Cote des Forche (250 XP) - Climb of the Week (France
  )
 DTSTART:20261017
 DTEND:20261018
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261017-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote des Forche\nType: Climb of the Week\n
@@ -1432,7 +1432,7 @@ SUMMARY:[Zwift Climb] Cote des Forche (250 XP) - Climb of the Week (France
  )
 DTSTART:20261018
 DTEND:20261019
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261018-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote des Forche\nType: Climb of the Week\n
@@ -1446,7 +1446,7 @@ SUMMARY:[Zwift Climb] Cote de Pike (15k Drops) - Climb of the Week (France
  )
 DTSTART:20261019
 DTEND:20261020
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261019-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote de Pike (15k Drops)\nType: Climb of t
@@ -1459,7 +1459,7 @@ SUMMARY:[Zwift Climb] Cote de Pike (15k Drops) - Climb of the Week (France
  )
 DTSTART:20261020
 DTEND:20261021
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261020-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote de Pike (15k Drops)\nType: Climb of t
@@ -1472,7 +1472,7 @@ SUMMARY:[Zwift Climb] Cote de Pike (15k Drops) - Climb of the Week (France
  )
 DTSTART:20261021
 DTEND:20261022
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261021-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote de Pike (15k Drops)\nType: Climb of t
@@ -1485,7 +1485,7 @@ SUMMARY:[Zwift Climb] Cote de Pike (15k Drops) - Climb of the Week (France
  )
 DTSTART:20261022
 DTEND:20261023
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261022-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote de Pike (15k Drops)\nType: Climb of t
@@ -1498,7 +1498,7 @@ SUMMARY:[Zwift Climb] Cote de Pike (15k Drops) - Climb of the Week (France
  )
 DTSTART:20261023
 DTEND:20261024
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261023-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote de Pike (15k Drops)\nType: Climb of t
@@ -1511,7 +1511,7 @@ SUMMARY:[Zwift Climb] Cote de Pike (15k Drops) - Climb of the Week (France
  )
 DTSTART:20261024
 DTEND:20261025
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261024-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote de Pike (15k Drops)\nType: Climb of t
@@ -1524,7 +1524,7 @@ SUMMARY:[Zwift Climb] Cote de Pike (15k Drops) - Climb of the Week (France
  )
 DTSTART:20261025
 DTEND:20261026
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261025-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Cote de Pike (15k Drops)\nType: Climb of t
@@ -1537,7 +1537,7 @@ SUMMARY:[Zwift Climb] Old Willunga Hill (250 XP) - Climb of the Week (Fran
  ce)
 DTSTART:20261026
 DTEND:20261027
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261026-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Old Willunga Hill\nType: Climb of the Week
@@ -1551,7 +1551,7 @@ SUMMARY:[Zwift Climb] Old Willunga Hill (250 XP) - Climb of the Week (Fran
  ce)
 DTSTART:20261027
 DTEND:20261028
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261027-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Old Willunga Hill\nType: Climb of the Week
@@ -1565,7 +1565,7 @@ SUMMARY:[Zwift Climb] Old Willunga Hill (250 XP) - Climb of the Week (Fran
  ce)
 DTSTART:20261028
 DTEND:20261029
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261028-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Old Willunga Hill\nType: Climb of the Week
@@ -1579,7 +1579,7 @@ SUMMARY:[Zwift Climb] Old Willunga Hill (250 XP) - Climb of the Week (Fran
  ce)
 DTSTART:20261029
 DTEND:20261030
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261029-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Old Willunga Hill\nType: Climb of the Week
@@ -1593,7 +1593,7 @@ SUMMARY:[Zwift Climb] Old Willunga Hill (250 XP) - Climb of the Week (Fran
  ce)
 DTSTART:20261030
 DTEND:20261031
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261030-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Old Willunga Hill\nType: Climb of the Week
@@ -1607,7 +1607,7 @@ SUMMARY:[Zwift Climb] Old Willunga Hill (250 XP) - Climb of the Week (Fran
  ce)
 DTSTART:20261031
 DTEND:20261101
-DTSTAMP:20260915T205332Z
+DTSTAMP:20260916T205411Z
 UID:zwift-climb-20261031-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Old Willunga Hill\nType: Climb of the Week
