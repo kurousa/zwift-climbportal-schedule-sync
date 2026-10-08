@@ -11,7 +11,7 @@ SUMMARY:[Zwift Climb Portal] Côte des Forche / Trollstigen / Col du Rosie
  r
 DTSTART:20261001
 DTEND:20261002
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261001@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-01\n\n• Daily Climb (Watopia):
@@ -26,7 +26,7 @@ SUMMARY:[Zwift Climb Portal] Montée du Chinaillon / Trollstigen / Col du
  Rosier
 DTSTART:20261002
 DTEND:20261003
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261002@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-02\n\n• Daily Climb (Watopia):
@@ -41,7 +41,7 @@ SUMMARY:[Zwift Climb Portal] Col de Peyresourde (Avajan) / Trollstigen / C
  ol du Rosier
 DTSTART:20261003
 DTEND:20261004
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261003@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-03\n\n• Daily Climb (Watopia):
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Cote de Trebiac / Trollstigen / Col du Rosier
 DTSTART:20261004
 DTEND:20261005
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261004@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-04\n\n• Daily Climb (Watopia):
@@ -71,7 +71,7 @@ SUMMARY:[Zwift Climb Portal] La Super Planche des Belles Filles / Trollsti
  gen / Mûr de Bretagne (15k Drops)
 DTSTART:20261005
 DTEND:20261006
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261005@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-05\n\n• Daily Climb (Watopia):
@@ -87,7 +87,7 @@ SUMMARY:[Zwift Climb Portal] Old Willunga Hill / Trollstigen / Mûr de Bre
  tagne (15k Drops)
 DTSTART:20261006
 DTEND:20261007
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261006@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-06\n\n• Daily Climb (Watopia):
@@ -102,7 +102,7 @@ SUMMARY:[Zwift Climb Portal] Norton Summit / Trollstigen / Mûr de Bretagn
  e (15k Drops)
 DTSTART:20261007
 DTEND:20261008
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261007@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-07\n\n• Daily Climb (Watopia):
@@ -117,7 +117,7 @@ SUMMARY:[Zwift Climb Portal] Col de la Couillole / Trollstigen / Mûr de B
  retagne (15k Drops)
 DTSTART:20261008
 DTEND:20261009
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261008@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-08\n\n• Daily Climb (Watopia):
@@ -132,7 +132,7 @@ SUMMARY:[Zwift Climb Portal] Pas de Peyrol/Puy Mary / Trollstigen / Mûr d
  e Bretagne (15k Drops)
 DTSTART:20261009
 DTEND:20261010
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261009@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-09\n\n• Daily Climb (Watopia):
@@ -148,7 +148,7 @@ SUMMARY:[Zwift Climb Portal] Col du Platzerwasel / Trollstigen / Mûr de B
  retagne (15k Drops)
 DTSTART:20261010
 DTEND:20261011
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261010@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-10\n\n• Daily Climb (Watopia):
@@ -163,7 +163,7 @@ SUMMARY:[Zwift Climb Portal] La Laguna Negra / Trollstigen / Mûr de Breta
  gne (15k Drops)
 DTSTART:20261011
 DTEND:20261012
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261011@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-11\n\n• Daily Climb (Watopia):
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Poggio / Trollstigen / Cote des Forche
 DTSTART:20261012
 DTEND:20261013
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261012@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-12\n\n• Daily Climb (Watopia):
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Col d’Aspin / Trollstigen / Cote des Forche
 DTSTART:20261013
 DTEND:20261014
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261013@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-13\n\n• Daily Climb (Watopia):
@@ -206,7 +206,7 @@ SUMMARY:[Zwift Climb Portal] Col du Galibier (Lautaret) / Trollstigen / Co
  te des Forche
 DTSTART:20261014
 DTEND:20261015
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261014@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-14\n\n• Daily Climb (Watopia):
@@ -222,7 +222,7 @@ SUMMARY:[Zwift Climb Portal] Cote de Domancy / Trollstigen / Cote des Forc
  he
 DTSTART:20261015
 DTEND:20261016
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261015@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-15\n\n• Daily Climb (Watopia):
@@ -236,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Gotthard Pass / Trollstigen / Cote des Forche
 DTSTART:20261016
 DTEND:20261017
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261016@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-16\n\n• Daily Climb (Watopia):
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Isola 2000 / Trollstigen / Cote des Forche
 DTSTART:20261017
 DTEND:20261018
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261017@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-17\n\n• Daily Climb (Watopia):
@@ -265,7 +265,7 @@ SUMMARY:[Zwift Climb Portal] Col de la Madeleine / Trollstigen / Cote des
  Forche
 DTSTART:20261018
 DTEND:20261019
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261018@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-18\n\n• Daily Climb (Watopia):
@@ -280,7 +280,7 @@ SUMMARY:[Zwift Climb Portal] Lagos de Covadonga / Trollstigen / Cote de Pi
  ke (15k Drops)
 DTSTART:20261019
 DTEND:20261020
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261019@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-19\n\n• Daily Climb (Watopia):
@@ -295,7 +295,7 @@ SUMMARY:[Zwift Climb Portal] Crow Road / Trollstigen / Cote de Pike (15k D
  rops)
 DTSTART:20261020
 DTEND:20261021
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261020@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-20\n\n• Daily Climb (Watopia):
@@ -310,7 +310,7 @@ SUMMARY:[Zwift Climb Portal] Cipressa / Trollstigen / Cote de Pike (15k Dr
  ops)
 DTSTART:20261021
 DTEND:20261022
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261021@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-21\n\n• Daily Climb (Watopia):
@@ -325,7 +325,7 @@ SUMMARY:[Zwift Climb Portal] Bealach na Bà / Trollstigen / Cote de Pike (
  15k Drops)
 DTSTART:20261022
 DTEND:20261023
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261022@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-22\n\n• Daily Climb (Watopia):
@@ -340,7 +340,7 @@ SUMMARY:[Zwift Climb Portal] Puy de Dome / Trollstigen / Cote de Pike (15k
   Drops)
 DTSTART:20261023
 DTEND:20261024
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261023@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-23\n\n• Daily Climb (Watopia):
@@ -355,7 +355,7 @@ SUMMARY:[Zwift Climb Portal] Col du Télégraphe / Trollstigen / Cote de P
  ike (15k Drops)
 DTSTART:20261024
 DTEND:20261025
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261024@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-24\n\n• Daily Climb (Watopia):
@@ -370,7 +370,7 @@ SUMMARY:[Zwift Climb Portal] Col de la Croix de Fer / Trollstigen / Cote d
  e Pike (15k Drops)
 DTSTART:20261025
 DTEND:20261026
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261025@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-25\n\n• Daily Climb (Watopia):
@@ -384,7 +384,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Hautacam / Trollstigen / Old Willunga Hill
 DTSTART:20261026
 DTEND:20261027
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261026@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-26\n\n• Daily Climb (Watopia):
@@ -399,7 +399,7 @@ SUMMARY:[Zwift Climb Portal] Cheddar Gorge / Trollstigen / Old Willunga Hi
  ll
 DTSTART:20261027
 DTEND:20261028
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261027@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-27\n\n• Daily Climb (Watopia):
@@ -414,7 +414,7 @@ SUMMARY:[Zwift Climb Portal] La Turbie + Col d'Eze / Trollstigen / Old Wil
  lunga Hill
 DTSTART:20261028
 DTEND:20261029
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261028@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-28\n\n• Daily Climb (Watopia):
@@ -428,7 +428,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Rocacorba / Trollstigen / Old Willunga Hill
 DTSTART:20261029
 DTEND:20261030
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261029@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-29\n\n• Daily Climb (Watopia):
@@ -442,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Mt Fuji / Trollstigen / Old Willunga Hill
 DTSTART:20261030
 DTEND:20261031
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261030@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-30\n\n• Daily Climb (Watopia):
@@ -457,7 +457,7 @@ SUMMARY:[Zwift Climb Portal] Col de Sarenne / Trollstigen / Old Willunga H
  ill
 DTSTART:20261031
 DTEND:20261101
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261031@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-31\n\n• Daily Climb (Watopia):
@@ -471,7 +471,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Old Willunga Hill
 DTSTART:20261101
 DTEND:20261102
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261101@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-01\n\n• Climb of the Week (Fran
@@ -483,7 +483,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Hardknott Pass (15k Drops)
 DTSTART:20261102
 DTEND:20261103
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261102@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-02\n\n• Climb of the Week (Fran
@@ -495,7 +495,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Hardknott Pass (15k Drops)
 DTSTART:20261103
 DTEND:20261104
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261103@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-03\n\n• Climb of the Week (Fran
@@ -507,7 +507,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Hardknott Pass (15k Drops)
 DTSTART:20261104
 DTEND:20261105
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261104@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-04\n\n• Climb of the Week (Fran
@@ -519,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Hardknott Pass (15k Drops)
 DTSTART:20261105
 DTEND:20261106
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261105@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-05\n\n• Climb of the Week (Fran
@@ -531,7 +531,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Hardknott Pass (15k Drops)
 DTSTART:20261106
 DTEND:20261107
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261106@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-06\n\n• Climb of the Week (Fran
@@ -543,7 +543,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Hardknott Pass (15k Drops)
 DTSTART:20261107
 DTEND:20261108
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261107@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-07\n\n• Climb of the Week (Fran
@@ -555,7 +555,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Hardknott Pass (15k Drops)
 DTSTART:20261108
 DTEND:20261109
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261108@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-08\n\n• Climb of the Week (Fran
@@ -567,7 +567,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Old La Honda
 DTSTART:20261109
 DTEND:20261110
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261109@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-09\n\n• Climb of the Week (Fran
@@ -578,7 +578,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Old La Honda
 DTSTART:20261110
 DTEND:20261111
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261110@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-10\n\n• Climb of the Week (Fran
@@ -589,7 +589,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Old La Honda
 DTSTART:20261111
 DTEND:20261112
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261111@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-11\n\n• Climb of the Week (Fran
@@ -600,7 +600,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Old La Honda
 DTSTART:20261112
 DTEND:20261113
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261112@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-12\n\n• Climb of the Week (Fran
@@ -611,7 +611,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Old La Honda
 DTSTART:20261113
 DTEND:20261114
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261113@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-13\n\n• Climb of the Week (Fran
@@ -622,7 +622,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Old La Honda
 DTSTART:20261114
 DTEND:20261115
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261114@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-14\n\n• Climb of the Week (Fran
@@ -633,7 +633,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Old La Honda
 DTSTART:20261115
 DTEND:20261116
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261115@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-15\n\n• Climb of the Week (Fran
@@ -644,7 +644,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Côte de La Redoute
 DTSTART:20261116
 DTEND:20261117
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261116@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-16\n\n• Climb of the Week (Fran
@@ -656,7 +656,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Côte de La Redoute
 DTSTART:20261117
 DTEND:20261118
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261117@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-17\n\n• Climb of the Week (Fran
@@ -668,7 +668,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Côte de La Redoute
 DTSTART:20261118
 DTEND:20261119
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261118@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-18\n\n• Climb of the Week (Fran
@@ -680,7 +680,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Côte de La Redoute
 DTSTART:20261119
 DTEND:20261120
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261119@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-19\n\n• Climb of the Week (Fran
@@ -692,7 +692,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Côte de La Redoute
 DTSTART:20261120
 DTEND:20261121
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261120@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-20\n\n• Climb of the Week (Fran
@@ -704,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Côte de La Redoute
 DTSTART:20261121
 DTEND:20261122
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261121@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-21\n\n• Climb of the Week (Fran
@@ -716,7 +716,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Côte de La Redoute
 DTSTART:20261122
 DTEND:20261123
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261122@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-22\n\n• Climb of the Week (Fran
@@ -728,7 +728,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Pas de Peyrol/Puy Mary
 DTSTART:20261123
 DTEND:20261124
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261123@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-23\n\n• Climb of the Week (Fran
@@ -740,7 +740,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Pas de Peyrol/Puy Mary
 DTSTART:20261124
 DTEND:20261125
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261124@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-24\n\n• Climb of the Week (Fran
@@ -752,7 +752,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Pas de Peyrol/Puy Mary
 DTSTART:20261125
 DTEND:20261126
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261125@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-25\n\n• Climb of the Week (Fran
@@ -764,7 +764,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Pas de Peyrol/Puy Mary
 DTSTART:20261126
 DTEND:20261127
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261126@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-26\n\n• Climb of the Week (Fran
@@ -776,7 +776,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Pas de Peyrol/Puy Mary
 DTSTART:20261127
 DTEND:20261128
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261127@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-27\n\n• Climb of the Week (Fran
@@ -788,7 +788,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Pas de Peyrol/Puy Mary
 DTSTART:20261128
 DTEND:20261129
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261128@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-28\n\n• Climb of the Week (Fran
@@ -800,7 +800,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Pas de Peyrol/Puy Mary
 DTSTART:20261129
 DTEND:20261130
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261129@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-29\n\n• Climb of the Week (Fran
@@ -812,7 +812,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Col de Aravis
 DTSTART:20261130
 DTEND:20261201
-DTSTAMP:20261007T224541Z
+DTSTAMP:20261008T225626Z
 UID:zwift-climb-consolidated-20261130@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-30\n\n• Climb of the Week (Fran
