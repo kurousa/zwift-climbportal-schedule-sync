@@ -11,7 +11,7 @@ SUMMARY:[Zwift Climb Portal] Côte des Forche / Trollstigen / Col du Rosie
  r
 DTSTART:20261001
 DTEND:20261002
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261001@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-01\n\n• Daily Climb (Watopia):
@@ -26,7 +26,7 @@ SUMMARY:[Zwift Climb Portal] Montée du Chinaillon / Trollstigen / Col du
  Rosier
 DTSTART:20261002
 DTEND:20261003
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261002@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-02\n\n• Daily Climb (Watopia):
@@ -41,7 +41,7 @@ SUMMARY:[Zwift Climb Portal] Col de Peyresourde (Avajan) / Trollstigen / C
  ol du Rosier
 DTSTART:20261003
 DTEND:20261004
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261003@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-03\n\n• Daily Climb (Watopia):
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Cote de Trebiac / Trollstigen / Col du Rosier
 DTSTART:20261004
 DTEND:20261005
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261004@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-04\n\n• Daily Climb (Watopia):
@@ -71,7 +71,7 @@ SUMMARY:[Zwift Climb Portal] La Super Planche des Belles Filles / Trollsti
  gen / Mûr de Bretagne (15k Drops)
 DTSTART:20261005
 DTEND:20261006
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261005@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-05\n\n• Daily Climb (Watopia):
@@ -87,7 +87,7 @@ SUMMARY:[Zwift Climb Portal] Old Willunga Hill / Trollstigen / Mûr de Bre
  tagne (15k Drops)
 DTSTART:20261006
 DTEND:20261007
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261006@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-06\n\n• Daily Climb (Watopia):
@@ -102,7 +102,7 @@ SUMMARY:[Zwift Climb Portal] Norton Summit / Trollstigen / Mûr de Bretagn
  e (15k Drops)
 DTSTART:20261007
 DTEND:20261008
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261007@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-07\n\n• Daily Climb (Watopia):
@@ -117,7 +117,7 @@ SUMMARY:[Zwift Climb Portal] Col de la Couillole / Trollstigen / Mûr de B
  retagne (15k Drops)
 DTSTART:20261008
 DTEND:20261009
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261008@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-08\n\n• Daily Climb (Watopia):
@@ -132,7 +132,7 @@ SUMMARY:[Zwift Climb Portal] Pas de Peyrol/Puy Mary / Trollstigen / Mûr d
  e Bretagne (15k Drops)
 DTSTART:20261009
 DTEND:20261010
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261009@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-09\n\n• Daily Climb (Watopia):
@@ -148,7 +148,7 @@ SUMMARY:[Zwift Climb Portal] Col du Platzerwasel / Trollstigen / Mûr de B
  retagne (15k Drops)
 DTSTART:20261010
 DTEND:20261011
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261010@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-10\n\n• Daily Climb (Watopia):
@@ -163,7 +163,7 @@ SUMMARY:[Zwift Climb Portal] La Laguna Negra / Trollstigen / Mûr de Breta
  gne (15k Drops)
 DTSTART:20261011
 DTEND:20261012
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261011@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-11\n\n• Daily Climb (Watopia):
@@ -177,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Poggio / Trollstigen / Cote des Forche
 DTSTART:20261012
 DTEND:20261013
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261012@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-12\n\n• Daily Climb (Watopia):
@@ -191,7 +191,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Col d’Aspin / Trollstigen / Cote des Forche
 DTSTART:20261013
 DTEND:20261014
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261013@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-13\n\n• Daily Climb (Watopia):
@@ -206,7 +206,7 @@ SUMMARY:[Zwift Climb Portal] Col du Galibier (Lautaret) / Trollstigen / Co
  te des Forche
 DTSTART:20261014
 DTEND:20261015
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261014@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-14\n\n• Daily Climb (Watopia):
@@ -222,7 +222,7 @@ SUMMARY:[Zwift Climb Portal] Cote de Domancy / Trollstigen / Cote des Forc
  he
 DTSTART:20261015
 DTEND:20261016
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261015@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-15\n\n• Daily Climb (Watopia):
@@ -236,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Gotthard Pass / Trollstigen / Cote des Forche
 DTSTART:20261016
 DTEND:20261017
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261016@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-16\n\n• Daily Climb (Watopia):
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Isola 2000 / Trollstigen / Cote des Forche
 DTSTART:20261017
 DTEND:20261018
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261017@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-17\n\n• Daily Climb (Watopia):
@@ -265,7 +265,7 @@ SUMMARY:[Zwift Climb Portal] Col de la Madeleine / Trollstigen / Cote des
  Forche
 DTSTART:20261018
 DTEND:20261019
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261018@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-18\n\n• Daily Climb (Watopia):
@@ -280,7 +280,7 @@ SUMMARY:[Zwift Climb Portal] Lagos de Covadonga / Trollstigen / Cote de Pi
  ke (15k Drops)
 DTSTART:20261019
 DTEND:20261020
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261019@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-19\n\n• Daily Climb (Watopia):
@@ -295,7 +295,7 @@ SUMMARY:[Zwift Climb Portal] Crow Road / Trollstigen / Cote de Pike (15k D
  rops)
 DTSTART:20261020
 DTEND:20261021
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261020@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-20\n\n• Daily Climb (Watopia):
@@ -310,7 +310,7 @@ SUMMARY:[Zwift Climb Portal] Cipressa / Trollstigen / Cote de Pike (15k Dr
  ops)
 DTSTART:20261021
 DTEND:20261022
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261021@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-21\n\n• Daily Climb (Watopia):
@@ -325,7 +325,7 @@ SUMMARY:[Zwift Climb Portal] Bealach na Bà / Trollstigen / Cote de Pike (
  15k Drops)
 DTSTART:20261022
 DTEND:20261023
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261022@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-22\n\n• Daily Climb (Watopia):
@@ -340,7 +340,7 @@ SUMMARY:[Zwift Climb Portal] Puy de Dome / Trollstigen / Cote de Pike (15k
   Drops)
 DTSTART:20261023
 DTEND:20261024
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261023@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-23\n\n• Daily Climb (Watopia):
@@ -355,7 +355,7 @@ SUMMARY:[Zwift Climb Portal] Col du Télégraphe / Trollstigen / Cote de P
  ike (15k Drops)
 DTSTART:20261024
 DTEND:20261025
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261024@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-24\n\n• Daily Climb (Watopia):
@@ -370,7 +370,7 @@ SUMMARY:[Zwift Climb Portal] Col de la Croix de Fer / Trollstigen / Cote d
  e Pike (15k Drops)
 DTSTART:20261025
 DTEND:20261026
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261025@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-25\n\n• Daily Climb (Watopia):
@@ -384,7 +384,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Hautacam / Trollstigen / Old Willunga Hill
 DTSTART:20261026
 DTEND:20261027
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261026@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-26\n\n• Daily Climb (Watopia):
@@ -399,7 +399,7 @@ SUMMARY:[Zwift Climb Portal] Cheddar Gorge / Trollstigen / Old Willunga Hi
  ll
 DTSTART:20261027
 DTEND:20261028
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261027@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-27\n\n• Daily Climb (Watopia):
@@ -414,7 +414,7 @@ SUMMARY:[Zwift Climb Portal] La Turbie + Col d'Eze / Trollstigen / Old Wil
  lunga Hill
 DTSTART:20261028
 DTEND:20261029
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261028@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-28\n\n• Daily Climb (Watopia):
@@ -428,7 +428,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Rocacorba / Trollstigen / Old Willunga Hill
 DTSTART:20261029
 DTEND:20261030
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261029@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-29\n\n• Daily Climb (Watopia):
@@ -442,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Mt Fuji / Trollstigen / Old Willunga Hill
 DTSTART:20261030
 DTEND:20261031
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261030@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-30\n\n• Daily Climb (Watopia):
@@ -457,7 +457,7 @@ SUMMARY:[Zwift Climb Portal] Col de Sarenne / Trollstigen / Old Willunga H
  ill
 DTSTART:20261031
 DTEND:20261101
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261031@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-10-31\n\n• Daily Climb (Watopia):
@@ -468,375 +468,449 @@ DESCRIPTION:Zwift Climb Portal - 2026-10-31\n\n• Daily Climb (Watopia):
  dule source: https://zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Col des Aravis / Old Willunga Hill
+SUMMARY:[Zwift Climb Portal] Col des Aravis / Hautacam / Old Willunga Hill
 DTSTART:20261101
 DTEND:20261102
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261101@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-01\n\n• Daily Climb (Watopia):
  \n  Col des Aravis\n  https://zwiftinsider.com/portal/col-des-aravis/\n\n
- • Climb of the Week (France):\n  Old Willunga Hill (250 XP)\n  https://z
- wiftinsider.com/portal/old-willunga-hill/\n\nSchedule source: https://zwif
- tinsider.com/climb-portal-schedule/
+ • Climb of the Month (France):\n  Hautacam\n  https://zwiftinsider.com/p
+ ortal/hautacam/\n\n• Climb of the Week (France):\n  Old Willunga Hill (2
+ 50 XP)\n  https://zwiftinsider.com/portal/old-willunga-hill/\n\nSchedule s
+ ource: https://zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Cote de Pike / Hardknott Pass (15k Drops)
+SUMMARY:[Zwift Climb Portal] Cote de Pike / Hautacam / Hardknott Pass (15k
+  Drops)
 DTSTART:20261102
 DTEND:20261103
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261102@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-02\n\n• Daily Climb (Watopia):
  \n  Cote de Pike\n  https://zwiftinsider.com/portal/cote-de-pike/\n\n• C
- limb of the Week (France):\n  Hardknott Pass (15k Drops)\n  https://zwifti
- nsider.com/portal/hardknott-pass/\n\nSchedule source: https://zwiftinsider
- .com/climb-portal-schedule/
+ limb of the Month (France):\n  Hautacam\n  https://zwiftinsider.com/portal
+ /hautacam/\n\n• Climb of the Week (France):\n  Hardknott Pass (15k Drops
+ )\n  https://zwiftinsider.com/portal/hardknott-pass/\n\nSchedule source: h
+ ttps://zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Pla d'Adet / Hardknott Pass (15k Drops)
+SUMMARY:[Zwift Climb Portal] Pla d'Adet / Hautacam / Hardknott Pass (15k D
+ rops)
 DTSTART:20261103
 DTEND:20261104
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261103@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-03\n\n• Daily Climb (Watopia):
  \n  Pla d'Adet\n  https://zwiftinsider.com/portal/pla-dadet/\n\n• Climb 
- of the Week (France):\n  Hardknott Pass (15k Drops)\n  https://zwiftinside
- r.com/portal/hardknott-pass/\n\nSchedule source: https://zwiftinsider.com/
- climb-portal-schedule/
+ of the Month (France):\n  Hautacam\n  https://zwiftinsider.com/portal/haut
+ acam/\n\n• Climb of the Week (France):\n  Hardknott Pass (15k Drops)\n  
+ https://zwiftinsider.com/portal/hardknott-pass/\n\nSchedule source: https:
+ //zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Hardknott Pass / Hardknott Pass (15k Drops)
+SUMMARY:[Zwift Climb Portal] Hardknott Pass / Hautacam / Hardknott Pass (1
+ 5k Drops)
 DTSTART:20261104
 DTEND:20261105
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261104@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-04\n\n• Daily Climb (Watopia):
  \n  Hardknott Pass\n  https://zwiftinsider.com/portal/hardknott-pass/\n\n
- • Climb of the Week (France):\n  Hardknott Pass (15k Drops)\n  https://z
- wiftinsider.com/portal/hardknott-pass/\n\nSchedule source: https://zwiftin
- sider.com/climb-portal-schedule/
+ • Climb of the Month (France):\n  Hautacam\n  https://zwiftinsider.com/p
+ ortal/hautacam/\n\n• Climb of the Week (France):\n  Hardknott Pass (15k 
+ Drops)\n  https://zwiftinsider.com/portal/hardknott-pass/\n\nSchedule sour
+ ce: https://zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Alto de Patios / Hardknott Pass (15k Drops)
+SUMMARY:[Zwift Climb Portal] Alto de Patios / Hautacam / Hardknott Pass (1
+ 5k Drops)
 DTSTART:20261105
 DTEND:20261106
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261105@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-05\n\n• Daily Climb (Watopia):
  \n  Alto de Patios\n  https://zwiftinsider.com/portal/alto-de-patios/\n\n
- • Climb of the Week (France):\n  Hardknott Pass (15k Drops)\n  https://z
- wiftinsider.com/portal/hardknott-pass/\n\nSchedule source: https://zwiftin
- sider.com/climb-portal-schedule/
+ • Climb of the Month (France):\n  Hautacam\n  https://zwiftinsider.com/p
+ ortal/hautacam/\n\n• Climb of the Week (France):\n  Hardknott Pass (15k 
+ Drops)\n  https://zwiftinsider.com/portal/hardknott-pass/\n\nSchedule sour
+ ce: https://zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Côte de La Redoute / Hardknott Pass (15k Dro
- ps)
+SUMMARY:[Zwift Climb Portal] Côte de La Redoute / Hautacam / Hardknott Pa
+ ss (15k Drops)
 DTSTART:20261106
 DTEND:20261107
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261106@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-06\n\n• Daily Climb (Watopia):
  \n  Côte de La Redoute\n  https://zwiftinsider.com/portal/cote-de-la-redo
- ute/\n\n• Climb of the Week (France):\n  Hardknott Pass (15k Drops)\n  h
- ttps://zwiftinsider.com/portal/hardknott-pass/\n\nSchedule source: https:/
- /zwiftinsider.com/climb-portal-schedule/
+ ute/\n\n• Climb of the Month (France):\n  Hautacam\n  https://zwiftinsid
+ er.com/portal/hautacam/\n\n• Climb of the Week (France):\n  Hardknott Pa
+ ss (15k Drops)\n  https://zwiftinsider.com/portal/hardknott-pass/\n\nSched
+ ule source: https://zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Coll d'Ordino / Hardknott Pass (15k Drops)
+SUMMARY:[Zwift Climb Portal] Coll d'Ordino / Hautacam / Hardknott Pass (15
+ k Drops)
 DTSTART:20261107
 DTEND:20261108
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261107@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-07\n\n• Daily Climb (Watopia):
  \n  Coll d'Ordino\n  https://zwiftinsider.com/portal/coll-dordino/\n\n• 
- Climb of the Week (France):\n  Hardknott Pass (15k Drops)\n  https://zwift
- insider.com/portal/hardknott-pass/\n\nSchedule source: https://zwiftinside
- r.com/climb-portal-schedule/
+ Climb of the Month (France):\n  Hautacam\n  https://zwiftinsider.com/porta
+ l/hautacam/\n\n• Climb of the Week (France):\n  Hardknott Pass (15k Drop
+ s)\n  https://zwiftinsider.com/portal/hardknott-pass/\n\nSchedule source: 
+ https://zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Old La Honda / Hardknott Pass (15k Drops)
+SUMMARY:[Zwift Climb Portal] Old La Honda / Hautacam / Hardknott Pass (15k
+  Drops)
 DTSTART:20261108
 DTEND:20261109
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261108@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-08\n\n• Daily Climb (Watopia):
  \n  Old La Honda\n  https://zwiftinsider.com/portal/old-la-honda/\n\n• C
- limb of the Week (France):\n  Hardknott Pass (15k Drops)\n  https://zwifti
- nsider.com/portal/hardknott-pass/\n\nSchedule source: https://zwiftinsider
- .com/climb-portal-schedule/
+ limb of the Month (France):\n  Hautacam\n  https://zwiftinsider.com/portal
+ /hautacam/\n\n• Climb of the Week (France):\n  Hardknott Pass (15k Drops
+ )\n  https://zwiftinsider.com/portal/hardknott-pass/\n\nSchedule source: h
+ ttps://zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Oude Kwaremont / Old La Honda
+SUMMARY:[Zwift Climb Portal] Oude Kwaremont / Hautacam / Old La Honda
 DTSTART:20261109
 DTEND:20261110
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261109@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-09\n\n• Daily Climb (Watopia):
  \n  Oude Kwaremont\n  https://zwiftinsider.com/portal/oude-kwaremont/\n\n
- • Climb of the Week (France):\n  Old La Honda (250 XP)\n  https://zwifti
- nsider.com/portal/old-la-honda/\n\nSchedule source: https://zwiftinsider.c
- om/climb-portal-schedule/
+ • Climb of the Month (France):\n  Hautacam\n  https://zwiftinsider.com/p
+ ortal/hautacam/\n\n• Climb of the Week (France):\n  Old La Honda (250 XP
+ )\n  https://zwiftinsider.com/portal/old-la-honda/\n\nSchedule source: htt
+ ps://zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Col de la Croix Saint-Robert / Old La Honda
+SUMMARY:[Zwift Climb Portal] Col de la Croix Saint-Robert / Hautacam / Old
+  La Honda
 DTSTART:20261110
 DTEND:20261111
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261110@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-10\n\n• Daily Climb (Watopia):
  \n  Col de la Croix Saint-Robert\n  https://zwiftinsider.com/portal/col-de
- -la-croix-saint-robert/\n\n• Climb of the Week (France):\n  Old La Honda
-  (250 XP)\n  https://zwiftinsider.com/portal/old-la-honda/\n\nSchedule sou
- rce: https://zwiftinsider.com/climb-portal-schedule/
+ -la-croix-saint-robert/\n\n• Climb of the Month (France):\n  Hautacam\n 
+  https://zwiftinsider.com/portal/hautacam/\n\n• Climb of the Week (Franc
+ e):\n  Old La Honda (250 XP)\n  https://zwiftinsider.com/portal/old-la-hon
+ da/\n\nSchedule source: https://zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Col du Rosier / Old La Honda
+SUMMARY:[Zwift Climb Portal] Col du Rosier / Hautacam / Old La Honda
 DTSTART:20261111
 DTEND:20261112
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261111@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-11\n\n• Daily Climb (Watopia):
  \n  Col du Rosier\n  https://zwiftinsider.com/portal/col-du-rosier/\n\n•
-  Climb of the Week (France):\n  Old La Honda (250 XP)\n  https://zwiftinsi
- der.com/portal/old-la-honda/\n\nSchedule source: https://zwiftinsider.com/
- climb-portal-schedule/
+  Climb of the Month (France):\n  Hautacam\n  https://zwiftinsider.com/port
+ al/hautacam/\n\n• Climb of the Week (France):\n  Old La Honda (250 XP)\n
+   https://zwiftinsider.com/portal/old-la-honda/\n\nSchedule source: https:
+ //zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Col de la Madone / Old La Honda
+SUMMARY:[Zwift Climb Portal] Col de la Madone / Hautacam / Old La Honda
 DTSTART:20261112
 DTEND:20261113
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261112@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-12\n\n• Daily Climb (Watopia):
  \n  Col de la Madone\n  https://zwiftinsider.com/portal/col-de-la-madone/
- \n\n• Climb of the Week (France):\n  Old La Honda (250 XP)\n  https://zw
- iftinsider.com/portal/old-la-honda/\n\nSchedule source: https://zwiftinsid
- er.com/climb-portal-schedule/
+ \n\n• Climb of the Month (France):\n  Hautacam\n  https://zwiftinsider.c
+ om/portal/hautacam/\n\n• Climb of the Week (France):\n  Old La Honda (25
+ 0 XP)\n  https://zwiftinsider.com/portal/old-la-honda/\n\nSchedule source:
+  https://zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Mt. Hamilton / Old La Honda
+SUMMARY:[Zwift Climb Portal] Mt. Hamilton / Hautacam / Old La Honda
 DTSTART:20261113
 DTEND:20261114
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261113@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-13\n\n• Daily Climb (Watopia):
  \n  Mt. Hamilton\n  https://zwiftinsider.com/portal/mt-hamilton/\n\n• Cl
- imb of the Week (France):\n  Old La Honda (250 XP)\n  https://zwiftinsider
- .com/portal/old-la-honda/\n\nSchedule source: https://zwiftinsider.com/cli
- mb-portal-schedule/
+ imb of the Month (France):\n  Hautacam\n  https://zwiftinsider.com/portal/
+ hautacam/\n\n• Climb of the Week (France):\n  Old La Honda (250 XP)\n  h
+ ttps://zwiftinsider.com/portal/old-la-honda/\n\nSchedule source: https://z
+ wiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Old La Honda
+SUMMARY:[Zwift Climb Portal] Col du Tourmalet / Hautacam / Old La Honda
 DTSTART:20261114
 DTEND:20261115
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261114@climbportal
 CATEGORIES:Zwift,Cycling
-DESCRIPTION:Zwift Climb Portal - 2026-11-14\n\n• Climb of the Week (Fran
- ce):\n  Old La Honda (250 XP)\n  https://zwiftinsider.com/portal/old-la-ho
- nda/\n\nSchedule source: https://zwiftinsider.com/climb-portal-schedule/
+DESCRIPTION:Zwift Climb Portal - 2026-11-14\n\n• Daily Climb (Watopia):
+ \n  Col du Tourmalet\n  https://zwiftinsider.com/portal/col-du-tourmalet/
+ \n\n• Climb of the Month (France):\n  Hautacam\n  https://zwiftinsider.c
+ om/portal/hautacam/\n\n• Climb of the Week (France):\n  Old La Honda (25
+ 0 XP)\n  https://zwiftinsider.com/portal/old-la-honda/\n\nSchedule source:
+  https://zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Old La Honda
+SUMMARY:[Zwift Climb Portal] Col du Galibier (Valloire) / Hautacam / Old L
+ a Honda
 DTSTART:20261115
 DTEND:20261116
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261115@climbportal
 CATEGORIES:Zwift,Cycling
-DESCRIPTION:Zwift Climb Portal - 2026-11-15\n\n• Climb of the Week (Fran
- ce):\n  Old La Honda (250 XP)\n  https://zwiftinsider.com/portal/old-la-ho
- nda/\n\nSchedule source: https://zwiftinsider.com/climb-portal-schedule/
+DESCRIPTION:Zwift Climb Portal - 2026-11-15\n\n• Daily Climb (Watopia):
+ \n  Col du Galibier (Valloire)\n  https://zwiftinsider.com/portal/col-du-g
+ alibier-valloire/\n\n• Climb of the Month (France):\n  Hautacam\n  https
+ ://zwiftinsider.com/portal/hautacam/\n\n• Climb of the Week (France):\n 
+  Old La Honda (250 XP)\n  https://zwiftinsider.com/portal/old-la-honda/\n
+ \nSchedule source: https://zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Côte de La Redoute
+SUMMARY:[Zwift Climb Portal] Côte des Forche / Hautacam / Côte de La Red
+ oute
 DTSTART:20261116
 DTEND:20261117
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261116@climbportal
 CATEGORIES:Zwift,Cycling
-DESCRIPTION:Zwift Climb Portal - 2026-11-16\n\n• Climb of the Week (Fran
- ce):\n  Côte de La Redoute (250 XP)\n  https://zwiftinsider.com/portal/co
- te-de-la-redoute/\n\nSchedule source: https://zwiftinsider.com/climb-porta
- l-schedule/
+DESCRIPTION:Zwift Climb Portal - 2026-11-16\n\n• Daily Climb (Watopia):
+ \n  Côte des Forche\n  https://zwiftinsider.com/portal/cote-des-forche/\n
+ \n• Climb of the Month (France):\n  Hautacam\n  https://zwiftinsider.com
+ /portal/hautacam/\n\n• Climb of the Week (France):\n  Côte de La Redout
+ e (250 XP)\n  https://zwiftinsider.com/portal/cote-de-la-redoute/\n\nSched
+ ule source: https://zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Côte de La Redoute
+SUMMARY:[Zwift Climb Portal] Montée du Chinaillon / Hautacam / Côte de L
+ a Redoute
 DTSTART:20261117
 DTEND:20261118
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261117@climbportal
 CATEGORIES:Zwift,Cycling
-DESCRIPTION:Zwift Climb Portal - 2026-11-17\n\n• Climb of the Week (Fran
- ce):\n  Côte de La Redoute (250 XP)\n  https://zwiftinsider.com/portal/co
- te-de-la-redoute/\n\nSchedule source: https://zwiftinsider.com/climb-porta
- l-schedule/
+DESCRIPTION:Zwift Climb Portal - 2026-11-17\n\n• Daily Climb (Watopia):
+ \n  Montée du Chinaillon\n  https://zwiftinsider.com/portal/montee-du-chi
+ naillon/\n\n• Climb of the Month (France):\n  Hautacam\n  https://zwifti
+ nsider.com/portal/hautacam/\n\n• Climb of the Week (France):\n  Côte de
+  La Redoute (250 XP)\n  https://zwiftinsider.com/portal/cote-de-la-redoute
+ /\n\nSchedule source: https://zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Côte de La Redoute
+SUMMARY:[Zwift Climb Portal] Col de Peyresourde (Avajan) / Hautacam / Côt
+ e de La Redoute
 DTSTART:20261118
 DTEND:20261119
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261118@climbportal
 CATEGORIES:Zwift,Cycling
-DESCRIPTION:Zwift Climb Portal - 2026-11-18\n\n• Climb of the Week (Fran
- ce):\n  Côte de La Redoute (250 XP)\n  https://zwiftinsider.com/portal/co
- te-de-la-redoute/\n\nSchedule source: https://zwiftinsider.com/climb-porta
- l-schedule/
+DESCRIPTION:Zwift Climb Portal - 2026-11-18\n\n• Daily Climb (Watopia):
+ \n  Col de Peyresourde (Avajan)\n  https://zwiftinsider.com/portal/col-de-
+ peyresourde-avajan/\n\n• Climb of the Month (France):\n  Hautacam\n  htt
+ ps://zwiftinsider.com/portal/hautacam/\n\n• Climb of the Week (France):
+ \n  Côte de La Redoute (250 XP)\n  https://zwiftinsider.com/portal/cote-d
+ e-la-redoute/\n\nSchedule source: https://zwiftinsider.com/climb-portal-sc
+ hedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Côte de La Redoute
+SUMMARY:[Zwift Climb Portal] Cote de Trebiac / Hautacam / Côte de La Redo
+ ute
 DTSTART:20261119
 DTEND:20261120
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261119@climbportal
 CATEGORIES:Zwift,Cycling
-DESCRIPTION:Zwift Climb Portal - 2026-11-19\n\n• Climb of the Week (Fran
- ce):\n  Côte de La Redoute (250 XP)\n  https://zwiftinsider.com/portal/co
- te-de-la-redoute/\n\nSchedule source: https://zwiftinsider.com/climb-porta
- l-schedule/
+DESCRIPTION:Zwift Climb Portal - 2026-11-19\n\n• Daily Climb (Watopia):
+ \n  Cote de Trebiac\n  https://zwiftinsider.com/portal/cote-de-trebiac/\n
+ \n• Climb of the Month (France):\n  Hautacam\n  https://zwiftinsider.com
+ /portal/hautacam/\n\n• Climb of the Week (France):\n  Côte de La Redout
+ e (250 XP)\n  https://zwiftinsider.com/portal/cote-de-la-redoute/\n\nSched
+ ule source: https://zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Côte de La Redoute
+SUMMARY:[Zwift Climb Portal] La Super Planche des Belles Filles / Hautacam
+  / Côte de La Redoute
 DTSTART:20261120
 DTEND:20261121
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261120@climbportal
 CATEGORIES:Zwift,Cycling
-DESCRIPTION:Zwift Climb Portal - 2026-11-20\n\n• Climb of the Week (Fran
- ce):\n  Côte de La Redoute (250 XP)\n  https://zwiftinsider.com/portal/co
- te-de-la-redoute/\n\nSchedule source: https://zwiftinsider.com/climb-porta
- l-schedule/
+DESCRIPTION:Zwift Climb Portal - 2026-11-20\n\n• Daily Climb (Watopia):
+ \n  La Super Planche des Belles Filles\n  https://zwiftinsider.com/portal/
+ la-super-planche-des-belles-filles/\n\n• Climb of the Month (France):\n 
+  Hautacam\n  https://zwiftinsider.com/portal/hautacam/\n\n• Climb of the
+  Week (France):\n  Côte de La Redoute (250 XP)\n  https://zwiftinsider.co
+ m/portal/cote-de-la-redoute/\n\nSchedule source: https://zwiftinsider.com/
+ climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Côte de La Redoute
+SUMMARY:[Zwift Climb Portal] Old Willunga Hill / Hautacam / Côte de La Re
+ doute
 DTSTART:20261121
 DTEND:20261122
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261121@climbportal
 CATEGORIES:Zwift,Cycling
-DESCRIPTION:Zwift Climb Portal - 2026-11-21\n\n• Climb of the Week (Fran
- ce):\n  Côte de La Redoute (250 XP)\n  https://zwiftinsider.com/portal/co
- te-de-la-redoute/\n\nSchedule source: https://zwiftinsider.com/climb-porta
- l-schedule/
+DESCRIPTION:Zwift Climb Portal - 2026-11-21\n\n• Daily Climb (Watopia):
+ \n  Old Willunga Hill\n  https://zwiftinsider.com/portal/old-willunga-hill
+ /\n\n• Climb of the Month (France):\n  Hautacam\n  https://zwiftinsider.
+ com/portal/hautacam/\n\n• Climb of the Week (France):\n  Côte de La Red
+ oute (250 XP)\n  https://zwiftinsider.com/portal/cote-de-la-redoute/\n\nSc
+ hedule source: https://zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Côte de La Redoute
+SUMMARY:[Zwift Climb Portal] Norton Summit / Hautacam / Côte de La Redout
+ e
 DTSTART:20261122
 DTEND:20261123
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261122@climbportal
 CATEGORIES:Zwift,Cycling
-DESCRIPTION:Zwift Climb Portal - 2026-11-22\n\n• Climb of the Week (Fran
- ce):\n  Côte de La Redoute (250 XP)\n  https://zwiftinsider.com/portal/co
- te-de-la-redoute/\n\nSchedule source: https://zwiftinsider.com/climb-porta
+DESCRIPTION:Zwift Climb Portal - 2026-11-22\n\n• Daily Climb (Watopia):
+ \n  Norton Summit\n  https://zwiftinsider.com/portal/norton-summit/\n\n•
+  Climb of the Month (France):\n  Hautacam\n  https://zwiftinsider.com/port
+ al/hautacam/\n\n• Climb of the Week (France):\n  Côte de La Redoute (25
+ 0 XP)\n  https://zwiftinsider.com/portal/cote-de-la-redoute/\n\nSchedule s
+ ource: https://zwiftinsider.com/climb-portal-schedule/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Zwift Climb Portal] Col de la Couillole / Hautacam / Pas de Peyro
+ l/Puy Mary
+DTSTART:20261123
+DTEND:20261124
+DTSTAMP:20261028T221258Z
+UID:zwift-climb-consolidated-20261123@climbportal
+CATEGORIES:Zwift,Cycling
+DESCRIPTION:Zwift Climb Portal - 2026-11-23\n\n• Daily Climb (Watopia):
+ \n  Col de la Couillole\n  https://zwiftinsider.com/portal/col-de-la-couil
+ lole/\n\n• Climb of the Month (France):\n  Hautacam\n  https://zwiftinsi
+ der.com/portal/hautacam/\n\n• Climb of the Week (France):\n  Pas de Peyr
+ ol/Puy Mary (500 XP)\n  https://zwiftinsider.com/portal/pas-de-peyrol-puy-
+ mary/\n\nSchedule source: https://zwiftinsider.com/climb-portal-schedule/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Zwift Climb Portal] Pas de Peyrol/Puy Mary / Hautacam / Pas de Pe
+ yrol/Puy Mary
+DTSTART:20261124
+DTEND:20261125
+DTSTAMP:20261028T221258Z
+UID:zwift-climb-consolidated-20261124@climbportal
+CATEGORIES:Zwift,Cycling
+DESCRIPTION:Zwift Climb Portal - 2026-11-24\n\n• Daily Climb (Watopia):
+ \n  Pas de Peyrol/Puy Mary\n  https://zwiftinsider.com/portal/pas-de-peyro
+ l-puy-mary/\n\n• Climb of the Month (France):\n  Hautacam\n  https://zwi
+ ftinsider.com/portal/hautacam/\n\n• Climb of the Week (France):\n  Pas d
+ e Peyrol/Puy Mary (500 XP)\n  https://zwiftinsider.com/portal/pas-de-peyro
+ l-puy-mary/\n\nSchedule source: https://zwiftinsider.com/climb-portal-sche
+ dule/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Zwift Climb Portal] Col du Platzerwasel / Hautacam / Pas de Peyro
+ l/Puy Mary
+DTSTART:20261125
+DTEND:20261126
+DTSTAMP:20261028T221258Z
+UID:zwift-climb-consolidated-20261125@climbportal
+CATEGORIES:Zwift,Cycling
+DESCRIPTION:Zwift Climb Portal - 2026-11-25\n\n• Daily Climb (Watopia):
+ \n  Col du Platzerwasel\n  https://zwiftinsider.com/portal/col-du-platzerw
+ asel/\n\n• Climb of the Month (France):\n  Hautacam\n  https://zwiftinsi
+ der.com/portal/hautacam/\n\n• Climb of the Week (France):\n  Pas de Peyr
+ ol/Puy Mary (500 XP)\n  https://zwiftinsider.com/portal/pas-de-peyrol-puy-
+ mary/\n\nSchedule source: https://zwiftinsider.com/climb-portal-schedule/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Zwift Climb Portal] La Laguna Negra / Hautacam / Pas de Peyrol/Pu
+ y Mary
+DTSTART:20261126
+DTEND:20261127
+DTSTAMP:20261028T221258Z
+UID:zwift-climb-consolidated-20261126@climbportal
+CATEGORIES:Zwift,Cycling
+DESCRIPTION:Zwift Climb Portal - 2026-11-26\n\n• Daily Climb (Watopia):
+ \n  La Laguna Negra\n  https://zwiftinsider.com/portal/la-laguna-negra/\n
+ \n• Climb of the Month (France):\n  Hautacam\n  https://zwiftinsider.com
+ /portal/hautacam/\n\n• Climb of the Week (France):\n  Pas de Peyrol/Puy 
+ Mary (500 XP)\n  https://zwiftinsider.com/portal/pas-de-peyrol-puy-mary/\n
+ \nSchedule source: https://zwiftinsider.com/climb-portal-schedule/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Zwift Climb Portal] Poggio / Hautacam / Pas de Peyrol/Puy Mary
+DTSTART:20261127
+DTEND:20261128
+DTSTAMP:20261028T221258Z
+UID:zwift-climb-consolidated-20261127@climbportal
+CATEGORIES:Zwift,Cycling
+DESCRIPTION:Zwift Climb Portal - 2026-11-27\n\n• Daily Climb (Watopia):
+ \n  Poggio\n  https://zwiftinsider.com/portal/poggio/\n\n• Climb of the 
+ Month (France):\n  Hautacam\n  https://zwiftinsider.com/portal/hautacam/\n
+ \n• Climb of the Week (France):\n  Pas de Peyrol/Puy Mary (500 XP)\n  ht
+ tps://zwiftinsider.com/portal/pas-de-peyrol-puy-mary/\n\nSchedule source: 
+ https://zwiftinsider.com/climb-portal-schedule/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Zwift Climb Portal] Col d’Aspin / Hautacam / Pas de Peyrol/Puy 
+ Mary
+DTSTART:20261128
+DTEND:20261129
+DTSTAMP:20261028T221258Z
+UID:zwift-climb-consolidated-20261128@climbportal
+CATEGORIES:Zwift,Cycling
+DESCRIPTION:Zwift Climb Portal - 2026-11-28\n\n• Daily Climb (Watopia):
+ \n  Col d’Aspin\n  https://zwiftinsider.com/portal/col-daspin/\n\n• Cl
+ imb of the Month (France):\n  Hautacam\n  https://zwiftinsider.com/portal/
+ hautacam/\n\n• Climb of the Week (France):\n  Pas de Peyrol/Puy Mary (50
+ 0 XP)\n  https://zwiftinsider.com/portal/pas-de-peyrol-puy-mary/\n\nSchedu
+ le source: https://zwiftinsider.com/climb-portal-schedule/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Zwift Climb Portal] Col du Galibier (Lautaret) / Hautacam / Pas d
+ e Peyrol/Puy Mary
+DTSTART:20261129
+DTEND:20261130
+DTSTAMP:20261028T221258Z
+UID:zwift-climb-consolidated-20261129@climbportal
+CATEGORIES:Zwift,Cycling
+DESCRIPTION:Zwift Climb Portal - 2026-11-29\n\n• Daily Climb (Watopia):
+ \n  Col du Galibier (Lautaret)\n  https://zwiftinsider.com/portal/col-du-g
+ alibier-lautaret/\n\n• Climb of the Month (France):\n  Hautacam\n  https
+ ://zwiftinsider.com/portal/hautacam/\n\n• Climb of the Week (France):\n 
+  Pas de Peyrol/Puy Mary (500 XP)\n  https://zwiftinsider.com/portal/pas-de
+ -peyrol-puy-mary/\n\nSchedule source: https://zwiftinsider.com/climb-porta
  l-schedule/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Pas de Peyrol/Puy Mary
-DTSTART:20261123
-DTEND:20261124
-DTSTAMP:20261027T215104Z
-UID:zwift-climb-consolidated-20261123@climbportal
-CATEGORIES:Zwift,Cycling
-DESCRIPTION:Zwift Climb Portal - 2026-11-23\n\n• Climb of the Week (Fran
- ce):\n  Pas de Peyrol/Puy Mary (500 XP)\n  https://zwiftinsider.com/portal
- /pas-de-peyrol-puy-mary/\n\nSchedule source: https://zwiftinsider.com/clim
- b-portal-schedule/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Pas de Peyrol/Puy Mary
-DTSTART:20261124
-DTEND:20261125
-DTSTAMP:20261027T215104Z
-UID:zwift-climb-consolidated-20261124@climbportal
-CATEGORIES:Zwift,Cycling
-DESCRIPTION:Zwift Climb Portal - 2026-11-24\n\n• Climb of the Week (Fran
- ce):\n  Pas de Peyrol/Puy Mary (500 XP)\n  https://zwiftinsider.com/portal
- /pas-de-peyrol-puy-mary/\n\nSchedule source: https://zwiftinsider.com/clim
- b-portal-schedule/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Pas de Peyrol/Puy Mary
-DTSTART:20261125
-DTEND:20261126
-DTSTAMP:20261027T215104Z
-UID:zwift-climb-consolidated-20261125@climbportal
-CATEGORIES:Zwift,Cycling
-DESCRIPTION:Zwift Climb Portal - 2026-11-25\n\n• Climb of the Week (Fran
- ce):\n  Pas de Peyrol/Puy Mary (500 XP)\n  https://zwiftinsider.com/portal
- /pas-de-peyrol-puy-mary/\n\nSchedule source: https://zwiftinsider.com/clim
- b-portal-schedule/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Pas de Peyrol/Puy Mary
-DTSTART:20261126
-DTEND:20261127
-DTSTAMP:20261027T215104Z
-UID:zwift-climb-consolidated-20261126@climbportal
-CATEGORIES:Zwift,Cycling
-DESCRIPTION:Zwift Climb Portal - 2026-11-26\n\n• Climb of the Week (Fran
- ce):\n  Pas de Peyrol/Puy Mary (500 XP)\n  https://zwiftinsider.com/portal
- /pas-de-peyrol-puy-mary/\n\nSchedule source: https://zwiftinsider.com/clim
- b-portal-schedule/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Pas de Peyrol/Puy Mary
-DTSTART:20261127
-DTEND:20261128
-DTSTAMP:20261027T215104Z
-UID:zwift-climb-consolidated-20261127@climbportal
-CATEGORIES:Zwift,Cycling
-DESCRIPTION:Zwift Climb Portal - 2026-11-27\n\n• Climb of the Week (Fran
- ce):\n  Pas de Peyrol/Puy Mary (500 XP)\n  https://zwiftinsider.com/portal
- /pas-de-peyrol-puy-mary/\n\nSchedule source: https://zwiftinsider.com/clim
- b-portal-schedule/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Pas de Peyrol/Puy Mary
-DTSTART:20261128
-DTEND:20261129
-DTSTAMP:20261027T215104Z
-UID:zwift-climb-consolidated-20261128@climbportal
-CATEGORIES:Zwift,Cycling
-DESCRIPTION:Zwift Climb Portal - 2026-11-28\n\n• Climb of the Week (Fran
- ce):\n  Pas de Peyrol/Puy Mary (500 XP)\n  https://zwiftinsider.com/portal
- /pas-de-peyrol-puy-mary/\n\nSchedule source: https://zwiftinsider.com/clim
- b-portal-schedule/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Pas de Peyrol/Puy Mary
-DTSTART:20261129
-DTEND:20261130
-DTSTAMP:20261027T215104Z
-UID:zwift-climb-consolidated-20261129@climbportal
-CATEGORIES:Zwift,Cycling
-DESCRIPTION:Zwift Climb Portal - 2026-11-29\n\n• Climb of the Week (Fran
- ce):\n  Pas de Peyrol/Puy Mary (500 XP)\n  https://zwiftinsider.com/portal
- /pas-de-peyrol-puy-mary/\n\nSchedule source: https://zwiftinsider.com/clim
- b-portal-schedule/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Zwift Climb Portal] Col de Aravis
+SUMMARY:[Zwift Climb Portal] Cote de Domancy / Hautacam / Col de Aravis
 DTSTART:20261130
 DTEND:20261201
-DTSTAMP:20261027T215104Z
+DTSTAMP:20261028T221258Z
 UID:zwift-climb-consolidated-20261130@climbportal
 CATEGORIES:Zwift,Cycling
-DESCRIPTION:Zwift Climb Portal - 2026-11-30\n\n• Climb of the Week (Fran
- ce):\n  Col de Aravis (250 XP)\n  https://zwiftinsider.com/portal/col-des-
- aravis/\n\nSchedule source: https://zwiftinsider.com/climb-portal-schedule
- /
+DESCRIPTION:Zwift Climb Portal - 2026-11-30\n\n• Daily Climb (Watopia):
+ \n  Cote de Domancy\n  https://zwiftinsider.com/portal/cote-de-domancy/\n
+ \n• Climb of the Month (France):\n  Hautacam\n  https://zwiftinsider.com
+ /portal/hautacam/\n\n• Climb of the Week (France):\n  Col de Aravis (250
+  XP)\n  https://zwiftinsider.com/portal/col-des-aravis/\n\nSchedule source
+ : https://zwiftinsider.com/climb-portal-schedule/
 END:VEVENT
 END:VCALENDAR
