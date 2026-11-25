@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Col des Aravis / Hautacam / Old Willunga Hill
 DTSTART:20261101
 DTEND:20261102
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261101@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-01\n\n• Daily Climb (Watopia):
@@ -25,7 +25,7 @@ SUMMARY:[Zwift Climb Portal] Cote de Pike / Hautacam / Hardknott Pass (15k
   Drops)
 DTSTART:20261102
 DTEND:20261103
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261102@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-02\n\n• Daily Climb (Watopia):
@@ -40,7 +40,7 @@ SUMMARY:[Zwift Climb Portal] Pla d'Adet / Hautacam / Hardknott Pass (15k D
  rops)
 DTSTART:20261103
 DTEND:20261104
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261103@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-03\n\n• Daily Climb (Watopia):
@@ -55,7 +55,7 @@ SUMMARY:[Zwift Climb Portal] Hardknott Pass / Hautacam / Hardknott Pass (1
  5k Drops)
 DTSTART:20261104
 DTEND:20261105
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261104@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-04\n\n• Daily Climb (Watopia):
@@ -70,7 +70,7 @@ SUMMARY:[Zwift Climb Portal] Alto de Patios / Hautacam / Hardknott Pass (1
  5k Drops)
 DTSTART:20261105
 DTEND:20261106
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261105@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-05\n\n• Daily Climb (Watopia):
@@ -85,7 +85,7 @@ SUMMARY:[Zwift Climb Portal] Côte de La Redoute / Hautacam / Hardknott Pa
  ss (15k Drops)
 DTSTART:20261106
 DTEND:20261107
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261106@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-06\n\n• Daily Climb (Watopia):
@@ -100,7 +100,7 @@ SUMMARY:[Zwift Climb Portal] Coll d'Ordino / Hautacam / Hardknott Pass (15
  k Drops)
 DTSTART:20261107
 DTEND:20261108
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261107@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-07\n\n• Daily Climb (Watopia):
@@ -115,7 +115,7 @@ SUMMARY:[Zwift Climb Portal] Old La Honda / Hautacam / Hardknott Pass (15k
   Drops)
 DTSTART:20261108
 DTEND:20261109
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261108@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-08\n\n• Daily Climb (Watopia):
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Oude Kwaremont / Hautacam / Old La Honda
 DTSTART:20261109
 DTEND:20261110
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261109@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-09\n\n• Daily Climb (Watopia):
@@ -144,7 +144,7 @@ SUMMARY:[Zwift Climb Portal] Col de la Croix Saint-Robert / Hautacam / Old
   La Honda
 DTSTART:20261110
 DTEND:20261111
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261110@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-10\n\n• Daily Climb (Watopia):
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Col du Rosier / Hautacam / Old La Honda
 DTSTART:20261111
 DTEND:20261112
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261111@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-11\n\n• Daily Climb (Watopia):
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Col de la Madone / Hautacam / Old La Honda
 DTSTART:20261112
 DTEND:20261113
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261112@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-12\n\n• Daily Climb (Watopia):
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Mt. Hamilton / Hautacam / Old La Honda
 DTSTART:20261113
 DTEND:20261114
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261113@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-13\n\n• Daily Climb (Watopia):
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Col du Tourmalet / Hautacam / Old La Honda
 DTSTART:20261114
 DTEND:20261115
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261114@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-14\n\n• Daily Climb (Watopia):
@@ -215,7 +215,7 @@ SUMMARY:[Zwift Climb Portal] Col du Galibier (Valloire) / Hautacam / Old L
  a Honda
 DTSTART:20261115
 DTEND:20261116
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261115@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-15\n\n• Daily Climb (Watopia):
@@ -230,7 +230,7 @@ SUMMARY:[Zwift Climb Portal] Côte des Forche / Hautacam / Côte de La Red
  oute
 DTSTART:20261116
 DTEND:20261117
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261116@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-16\n\n• Daily Climb (Watopia):
@@ -245,7 +245,7 @@ SUMMARY:[Zwift Climb Portal] Montée du Chinaillon / Hautacam / Côte de L
  a Redoute
 DTSTART:20261117
 DTEND:20261118
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261117@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-17\n\n• Daily Climb (Watopia):
@@ -260,7 +260,7 @@ SUMMARY:[Zwift Climb Portal] Col de Peyresourde (Avajan) / Hautacam / Côt
  e de La Redoute
 DTSTART:20261118
 DTEND:20261119
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261118@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-18\n\n• Daily Climb (Watopia):
@@ -276,7 +276,7 @@ SUMMARY:[Zwift Climb Portal] Cote de Trebiac / Hautacam / Côte de La Redo
  ute
 DTSTART:20261119
 DTEND:20261120
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261119@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-19\n\n• Daily Climb (Watopia):
@@ -291,7 +291,7 @@ SUMMARY:[Zwift Climb Portal] La Super Planche des Belles Filles / Hautacam
   / Côte de La Redoute
 DTSTART:20261120
 DTEND:20261121
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261120@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-20\n\n• Daily Climb (Watopia):
@@ -307,7 +307,7 @@ SUMMARY:[Zwift Climb Portal] Old Willunga Hill / Hautacam / Côte de La Re
  doute
 DTSTART:20261121
 DTEND:20261122
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261121@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-21\n\n• Daily Climb (Watopia):
@@ -322,7 +322,7 @@ SUMMARY:[Zwift Climb Portal] Poggio / Norton Summit / Hautacam / Côte de
  La Redoute
 DTSTART:20261122
 DTEND:20261123
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261122@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-22\n\n• Daily Climb (Watopia):
@@ -338,7 +338,7 @@ SUMMARY:[Zwift Climb Portal] Col de la Couillole / Hautacam / Pas de Peyro
  l/Puy Mary
 DTSTART:20261123
 DTEND:20261124
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261123@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-23\n\n• Daily Climb (Watopia):
@@ -353,7 +353,7 @@ SUMMARY:[Zwift Climb Portal] Pas de Peyrol/Puy Mary / Hautacam / Pas de Pe
  yrol/Puy Mary
 DTSTART:20261124
 DTEND:20261125
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261124@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-24\n\n• Daily Climb (Watopia):
@@ -369,7 +369,7 @@ SUMMARY:[Zwift Climb Portal] Col du Platzerwasel / Hautacam / Pas de Peyro
  l/Puy Mary
 DTSTART:20261125
 DTEND:20261126
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261125@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-25\n\n• Daily Climb (Watopia):
@@ -384,7 +384,7 @@ SUMMARY:[Zwift Climb Portal] La Laguna Negra / Hautacam / Pas de Peyrol/Pu
  y Mary
 DTSTART:20261126
 DTEND:20261127
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261126@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-26\n\n• Daily Climb (Watopia):
@@ -398,7 +398,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Poggio / Hautacam / Pas de Peyrol/Puy Mary
 DTSTART:20261127
 DTEND:20261128
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261127@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-27\n\n• Daily Climb (Watopia):
@@ -413,7 +413,7 @@ SUMMARY:[Zwift Climb Portal] Col d’Aspin / Hautacam / Pas de Peyrol/Puy
  Mary
 DTSTART:20261128
 DTEND:20261129
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261128@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-28\n\n• Daily Climb (Watopia):
@@ -428,7 +428,7 @@ SUMMARY:[Zwift Climb Portal] Col du Galibier (Lautaret) / Hautacam / Pas d
  e Peyrol/Puy Mary
 DTSTART:20261129
 DTEND:20261130
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261129@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-29\n\n• Daily Climb (Watopia):
@@ -443,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Cote de Domancy / Hautacam / Col de Aravis
 DTSTART:20261130
 DTEND:20261201
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261130@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-11-30\n\n• Daily Climb (Watopia):
@@ -458,7 +458,7 @@ SUMMARY:[Zwift Climb Portal] Montée du Chinaillon / Col du Télégraphe /
   Col de Aravis
 DTSTART:20261201
 DTEND:20261202
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261201@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-01\n\n• Daily Climb (Watopia):
@@ -474,7 +474,7 @@ SUMMARY:[Zwift Climb Portal] Cipressa / Col du Télégraphe / Col de Aravi
  s
 DTSTART:20261202
 DTEND:20261203
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261202@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-02\n\n• Daily Climb (Watopia):
@@ -489,7 +489,7 @@ SUMMARY:[Zwift Climb Portal] Bealach na Ba / Col du Télégraphe / Col de
  Aravis
 DTSTART:20261203
 DTEND:20261204
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261203@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-03\n\n• Daily Climb (Watopia):
@@ -504,7 +504,7 @@ SUMMARY:[Zwift Climb Portal] Old la Honda / Col du Télégraphe / Col de A
  ravis
 DTSTART:20261204
 DTEND:20261205
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261204@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-04\n\n• Daily Climb (Watopia):
@@ -519,7 +519,7 @@ SUMMARY:[Zwift Climb Portal] Col de la Madone / Col du Télégraphe / Col
  de Aravis
 DTSTART:20261205
 DTEND:20261206
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261205@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-05\n\n• Daily Climb (Watopia):
@@ -534,7 +534,7 @@ SUMMARY:[Zwift Climb Portal] Col du Tourmalet / Col du Télégraphe / Col
  de Aravis
 DTSTART:20261206
 DTEND:20261207
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261206@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-06\n\n• Daily Climb (Watopia):
@@ -549,7 +549,7 @@ SUMMARY:[Zwift Climb Portal] Cote de Pike / Col du Télégraphe / Col du P
  latzerwasel
 DTSTART:20261207
 DTEND:20261208
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261207@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-07\n\n• Daily Climb (Watopia):
@@ -564,7 +564,7 @@ SUMMARY:[Zwift Climb Portal] Puy de Dome / Col du Télégraphe / Col du Pl
  atzerwasel
 DTSTART:20261208
 DTEND:20261209
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261208@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-08\n\n• Daily Climb (Watopia):
@@ -579,7 +579,7 @@ SUMMARY:[Zwift Climb Portal] Col de Platzerwasel / Col du Télégraphe / C
  ol du Platzerwasel
 DTSTART:20261209
 DTEND:20261210
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261209@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-09\n\n• Daily Climb (Watopia):
@@ -595,7 +595,7 @@ SUMMARY:[Zwift Climb Portal] Old Willunga Hill / Col du Télégraphe / Col
   du Platzerwasel
 DTSTART:20261210
 DTEND:20261211
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261210@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-10\n\n• Daily Climb (Watopia):
@@ -611,7 +611,7 @@ SUMMARY:[Zwift Climb Portal] La Laguna Negra / Col du Télégraphe / Col d
  u Platzerwasel
 DTSTART:20261211
 DTEND:20261212
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261211@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-11\n\n• Daily Climb (Watopia):
@@ -627,7 +627,7 @@ SUMMARY:[Zwift Climb Portal] Crow Road / Col du Télégraphe / Col du Plat
  zerwasel
 DTSTART:20261212
 DTEND:20261213
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261212@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-12\n\n• Daily Climb (Watopia):
@@ -642,7 +642,7 @@ SUMMARY:[Zwift Climb Portal] Col de Peyresourde (Avajan) / Col du Télégr
  aphe / Col du Platzerwasel
 DTSTART:20261213
 DTEND:20261214
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261213@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-13\n\n• Daily Climb (Watopia):
@@ -658,7 +658,7 @@ SUMMARY:[Zwift Climb Portal] Pla d'Adet / Col du Télégraphe / Cheddar Go
  rge
 DTSTART:20261214
 DTEND:20261215
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261214@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-14\n\n• Daily Climb (Watopia):
@@ -673,7 +673,7 @@ SUMMARY:[Zwift Climb Portal] Côte des Forche / Col du Télégraphe / Ched
  dar Gorge
 DTSTART:20261215
 DTEND:20261216
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261215@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-15\n\n• Daily Climb (Watopia):
@@ -688,7 +688,7 @@ SUMMARY:[Zwift Climb Portal] Col du Rosier / Col du Télégraphe / Cheddar
   Gorge
 DTSTART:20261216
 DTEND:20261217
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261216@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-16\n\n• Daily Climb (Watopia):
@@ -703,7 +703,7 @@ SUMMARY:[Zwift Climb Portal] Isola 2000 / Col du Télégraphe / Cheddar Go
  rge
 DTSTART:20261217
 DTEND:20261218
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261217@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-17\n\n• Daily Climb (Watopia):
@@ -718,7 +718,7 @@ SUMMARY:[Zwift Climb Portal] Col de la Couillole / Col du Télégraphe / C
  heddar Gorge
 DTSTART:20261218
 DTEND:20261219
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261218@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-18\n\n• Daily Climb (Watopia):
@@ -734,7 +734,7 @@ SUMMARY:[Zwift Climb Portal] La Turbie/Col d'Eze / Col du Télégraphe / C
  heddar Gorge
 DTSTART:20261219
 DTEND:20261220
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261219@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-19\n\n• Daily Climb (Watopia):
@@ -749,7 +749,7 @@ SUMMARY:[Zwift Climb Portal] Gotthard Pass / Col du Télégraphe / Cheddar
   Gorge
 DTSTART:20261220
 DTEND:20261221
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261220@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-20\n\n• Daily Climb (Watopia):
@@ -764,7 +764,7 @@ SUMMARY:[Zwift Climb Portal] Oude Kwaremont / Col du Télégraphe / La Sup
  er Planche des Belles Filles
 DTSTART:20261221
 DTEND:20261222
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261221@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-21\n\n• Daily Climb (Watopia):
@@ -780,7 +780,7 @@ SUMMARY:[Zwift Climb Portal] Poggio / Col du Télégraphe / La Super Planc
  he des Belles Filles
 DTSTART:20261222
 DTEND:20261223
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261222@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-22\n\n• Daily Climb (Watopia):
@@ -796,7 +796,7 @@ SUMMARY:[Zwift Climb Portal] Alto de Patios / Col du Télégraphe / La Sup
  er Planche des Belles Filles
 DTSTART:20261223
 DTEND:20261224
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261223@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-23\n\n• Daily Climb (Watopia):
@@ -812,7 +812,7 @@ SUMMARY:[Zwift Climb Portal] Hardknott Pass / Col du Télégraphe / La Sup
  er Planche des Belles Filles
 DTSTART:20261224
 DTEND:20261225
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261224@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-24\n\n• Daily Climb (Watopia):
@@ -828,7 +828,7 @@ SUMMARY:[Zwift Climb Portal] Rocacorba / Col du Télégraphe / La Super Pl
  anche des Belles Filles
 DTSTART:20261225
 DTEND:20261226
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261225@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-25\n\n• Daily Climb (Watopia):
@@ -844,7 +844,7 @@ SUMMARY:[Zwift Climb Portal] La Super Planche / Col du Télégraphe / La S
  uper Planche des Belles Filles
 DTSTART:20261226
 DTEND:20261227
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261226@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-26\n\n• Daily Climb (Watopia):
@@ -860,7 +860,7 @@ SUMMARY:[Zwift Climb Portal] Lagos de Covadonga / Col du Télégraphe / La
   Super Planche des Belles Filles
 DTSTART:20261227
 DTEND:20261228
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261227@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-27\n\n• Daily Climb (Watopia):
@@ -875,7 +875,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Cote de Domancy / Col du Télégraphe
 DTSTART:20261228
 DTEND:20261229
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261228@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-28\n\n• Daily Climb (Watopia):
@@ -888,7 +888,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Col de la Croix de Fer / Col du Télégraphe
 DTSTART:20261229
 DTEND:20261230
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261229@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-29\n\n• Daily Climb (Watopia):
@@ -902,7 +902,7 @@ SUMMARY:[Zwift Climb Portal] Col du Galibier (Valloire) / Col du Télégra
  phe
 DTSTART:20261230
 DTEND:20261231
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261230@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-30\n\n• Daily Climb (Watopia):
@@ -915,7 +915,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb Portal] Mûr De Bretagne / Col du Télégraphe
 DTSTART:20261231
 DTEND:20270101
-DTSTAMP:20261124T035004Z
+DTSTAMP:20261125T015552Z
 UID:zwift-climb-consolidated-20261231@climbportal
 CATEGORIES:Zwift,Cycling
 DESCRIPTION:Zwift Climb Portal - 2026-12-31\n\n• Daily Climb (Watopia):
