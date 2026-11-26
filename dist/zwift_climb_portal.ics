@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col des Aravis - Daily Climb (Watopia)
 DTSTART:20261101
 DTEND:20261102
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261101-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col des Aravis\nType: Daily Climb\nWorld: 
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261101
 DTEND:20261102
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261101-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -35,7 +35,7 @@ SUMMARY:[Zwift Climb] Old Willunga Hill (250 XP) - Climb of the Week (Fran
  ce)
 DTSTART:20261101
 DTEND:20261102
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261101-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Old Willunga Hill\nType: Climb of the Week
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Cote de Pike - Daily Climb (Watopia)
 DTSTART:20261102
 DTEND:20261103
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261102-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Cote de Pike\nType: Daily Climb\nWorld: Wa
@@ -60,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261102
 DTEND:20261103
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261102-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -73,7 +73,7 @@ SUMMARY:[Zwift Climb] Hardknott Pass (15k Drops) - Climb of the Week (Fran
  ce)
 DTSTART:20261102
 DTEND:20261103
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261102-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Hardknott Pass (15k Drops)\nType: Climb of
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Pla d'Adet - Daily Climb (Watopia)
 DTSTART:20261103
 DTEND:20261104
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261103-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Pla d'Adet\nType: Daily Climb\nWorld: Wato
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261103
 DTEND:20261104
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261103-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -111,7 +111,7 @@ SUMMARY:[Zwift Climb] Hardknott Pass (15k Drops) - Climb of the Week (Fran
  ce)
 DTSTART:20261103
 DTEND:20261104
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261103-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Hardknott Pass (15k Drops)\nType: Climb of
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hardknott Pass - Daily Climb (Watopia)
 DTSTART:20261104
 DTEND:20261105
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261104-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Hardknott Pass\nType: Daily Climb\nWorld: 
@@ -136,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261104
 DTEND:20261105
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261104-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -149,7 +149,7 @@ SUMMARY:[Zwift Climb] Hardknott Pass (15k Drops) - Climb of the Week (Fran
  ce)
 DTSTART:20261104
 DTEND:20261105
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261104-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Hardknott Pass (15k Drops)\nType: Climb of
@@ -162,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Alto de Patios - Daily Climb (Watopia)
 DTSTART:20261105
 DTEND:20261106
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261105-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Alto de Patios\nType: Daily Climb\nWorld: 
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261105
 DTEND:20261106
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261105-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -187,7 +187,7 @@ SUMMARY:[Zwift Climb] Hardknott Pass (15k Drops) - Climb of the Week (Fran
  ce)
 DTSTART:20261105
 DTEND:20261106
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261105-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Hardknott Pass (15k Drops)\nType: Climb of
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Côte de La Redoute - Daily Climb (Watopia)
 DTSTART:20261106
 DTEND:20261107
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261106-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Côte de La Redoute\nType: Daily Climb\nWo
@@ -212,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261106
 DTEND:20261107
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261106-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -225,7 +225,7 @@ SUMMARY:[Zwift Climb] Hardknott Pass (15k Drops) - Climb of the Week (Fran
  ce)
 DTSTART:20261106
 DTEND:20261107
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261106-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Hardknott Pass (15k Drops)\nType: Climb of
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Coll d'Ordino - Daily Climb (Watopia)
 DTSTART:20261107
 DTEND:20261108
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261107-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Coll d'Ordino\nType: Daily Climb\nWorld: W
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261107
 DTEND:20261108
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261107-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -263,7 +263,7 @@ SUMMARY:[Zwift Climb] Hardknott Pass (15k Drops) - Climb of the Week (Fran
  ce)
 DTSTART:20261107
 DTEND:20261108
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261107-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Hardknott Pass (15k Drops)\nType: Climb of
@@ -276,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Old La Honda - Daily Climb (Watopia)
 DTSTART:20261108
 DTEND:20261109
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261108-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Old La Honda\nType: Daily Climb\nWorld: Wa
@@ -288,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261108
 DTEND:20261109
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261108-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -301,7 +301,7 @@ SUMMARY:[Zwift Climb] Hardknott Pass (15k Drops) - Climb of the Week (Fran
  ce)
 DTSTART:20261108
 DTEND:20261109
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261108-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Hardknott Pass (15k Drops)\nType: Climb of
@@ -314,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Oude Kwaremont - Daily Climb (Watopia)
 DTSTART:20261109
 DTEND:20261110
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261109-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Oude Kwaremont\nType: Daily Climb\nWorld: 
@@ -326,7 +326,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261109
 DTEND:20261110
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261109-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Old La Honda (250 XP) - Climb of the Week (France)
 DTSTART:20261109
 DTEND:20261110
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261109-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Old La Honda\nType: Climb of the Week\nWor
@@ -351,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col de la Croix Saint-Robert - Daily Climb (Watopia)
 DTSTART:20261110
 DTEND:20261111
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261110-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col de la Croix Saint-Robert\nType: Daily 
@@ -364,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261110
 DTEND:20261111
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261110-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -376,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Old La Honda (250 XP) - Climb of the Week (France)
 DTSTART:20261110
 DTEND:20261111
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261110-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Old La Honda\nType: Climb of the Week\nWor
@@ -389,7 +389,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Rosier - Daily Climb (Watopia)
 DTSTART:20261111
 DTEND:20261112
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261111-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col du Rosier\nType: Daily Climb\nWorld: W
@@ -401,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261111
 DTEND:20261112
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261111-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -413,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Old La Honda (250 XP) - Climb of the Week (France)
 DTSTART:20261111
 DTEND:20261112
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261111-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Old La Honda\nType: Climb of the Week\nWor
@@ -426,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col de la Madone - Daily Climb (Watopia)
 DTSTART:20261112
 DTEND:20261113
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261112-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col de la Madone\nType: Daily Climb\nWorld
@@ -438,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261112
 DTEND:20261113
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261112-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -450,7 +450,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Old La Honda (250 XP) - Climb of the Week (France)
 DTSTART:20261112
 DTEND:20261113
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261112-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Old La Honda\nType: Climb of the Week\nWor
@@ -463,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Mt. Hamilton - Daily Climb (Watopia)
 DTSTART:20261113
 DTEND:20261114
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261113-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Mt. Hamilton\nType: Daily Climb\nWorld: Wa
@@ -475,7 +475,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261113
 DTEND:20261114
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261113-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -487,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Old La Honda (250 XP) - Climb of the Week (France)
 DTSTART:20261113
 DTEND:20261114
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261113-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Old La Honda\nType: Climb of the Week\nWor
@@ -500,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Tourmalet - Daily Climb (Watopia)
 DTSTART:20261114
 DTEND:20261115
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261114-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col du Tourmalet\nType: Daily Climb\nWorld
@@ -512,7 +512,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261114
 DTEND:20261115
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261114-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -524,7 +524,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Old La Honda (250 XP) - Climb of the Week (France)
 DTSTART:20261114
 DTEND:20261115
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261114-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Old La Honda\nType: Climb of the Week\nWor
@@ -537,7 +537,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Daily Climb (Watopia)
 DTSTART:20261115
 DTEND:20261116
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261115-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Daily Cl
@@ -550,7 +550,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261115
 DTEND:20261116
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261115-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -562,7 +562,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Old La Honda (250 XP) - Climb of the Week (France)
 DTSTART:20261115
 DTEND:20261116
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261115-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Old La Honda\nType: Climb of the Week\nWor
@@ -575,7 +575,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Côte des Forche - Daily Climb (Watopia)
 DTSTART:20261116
 DTEND:20261117
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261116-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Côte des Forche\nType: Daily Climb\nWorld
@@ -587,7 +587,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261116
 DTEND:20261117
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261116-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -600,7 +600,7 @@ SUMMARY:[Zwift Climb] Côte de La Redoute (250 XP) - Climb of the Week (Fr
  ance)
 DTSTART:20261116
 DTEND:20261117
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261116-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Côte de La Redoute\nType: Climb of the We
@@ -613,7 +613,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Montée du Chinaillon - Daily Climb (Watopia)
 DTSTART:20261117
 DTEND:20261118
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261117-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Montée du Chinaillon\nType: Daily Climb\n
@@ -625,7 +625,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261117
 DTEND:20261118
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261117-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -638,7 +638,7 @@ SUMMARY:[Zwift Climb] Côte de La Redoute (250 XP) - Climb of the Week (Fr
  ance)
 DTSTART:20261117
 DTEND:20261118
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261117-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Côte de La Redoute\nType: Climb of the We
@@ -651,7 +651,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col de Peyresourde (Avajan) - Daily Climb (Watopia)
 DTSTART:20261118
 DTEND:20261119
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261118-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col de Peyresourde (Avajan)\nType: Daily C
@@ -664,7 +664,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261118
 DTEND:20261119
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261118-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -677,7 +677,7 @@ SUMMARY:[Zwift Climb] Côte de La Redoute (250 XP) - Climb of the Week (Fr
  ance)
 DTSTART:20261118
 DTEND:20261119
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261118-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Côte de La Redoute\nType: Climb of the We
@@ -690,7 +690,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Cote de Trebiac - Daily Climb (Watopia)
 DTSTART:20261119
 DTEND:20261120
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261119-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Cote de Trebiac\nType: Daily Climb\nWorld:
@@ -702,7 +702,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261119
 DTEND:20261120
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261119-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -715,7 +715,7 @@ SUMMARY:[Zwift Climb] Côte de La Redoute (250 XP) - Climb of the Week (Fr
  ance)
 DTSTART:20261119
 DTEND:20261120
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261119-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Côte de La Redoute\nType: Climb of the We
@@ -729,7 +729,7 @@ SUMMARY:[Zwift Climb] La Super Planche des Belles Filles - Daily Climb (Wa
  topia)
 DTSTART:20261120
 DTEND:20261121
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261120-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: La Super Planche des Belles Filles\nType: 
@@ -742,7 +742,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261120
 DTEND:20261121
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261120-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -755,7 +755,7 @@ SUMMARY:[Zwift Climb] Côte de La Redoute (250 XP) - Climb of the Week (Fr
  ance)
 DTSTART:20261120
 DTEND:20261121
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261120-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Côte de La Redoute\nType: Climb of the We
@@ -768,7 +768,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Old Willunga Hill - Daily Climb (Watopia)
 DTSTART:20261121
 DTEND:20261122
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261121-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Old Willunga Hill\nType: Daily Climb\nWorl
@@ -780,7 +780,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261121
 DTEND:20261122
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261121-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -793,7 +793,7 @@ SUMMARY:[Zwift Climb] Côte de La Redoute (250 XP) - Climb of the Week (Fr
  ance)
 DTSTART:20261121
 DTEND:20261122
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261121-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Côte de La Redoute\nType: Climb of the We
@@ -806,7 +806,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Poggio - Daily Climb (Watopia)
 DTSTART:20261122
 DTEND:20261123
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261122-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Poggio\nType: Daily Climb\nWorld: Watopia
@@ -818,7 +818,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Norton Summit - Daily Climb (Watopia)
 DTSTART:20261122
 DTEND:20261123
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261122-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Norton Summit\nType: Daily Climb\nWorld: W
@@ -830,7 +830,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261122
 DTEND:20261123
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261122-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -843,7 +843,7 @@ SUMMARY:[Zwift Climb] Côte de La Redoute (250 XP) - Climb of the Week (Fr
  ance)
 DTSTART:20261122
 DTEND:20261123
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261122-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Côte de La Redoute\nType: Climb of the We
@@ -856,7 +856,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col de la Couillole - Daily Climb (Watopia)
 DTSTART:20261123
 DTEND:20261124
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261123-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col de la Couillole\nType: Daily Climb\nWo
@@ -868,7 +868,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261123
 DTEND:20261124
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261123-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -881,7 +881,7 @@ SUMMARY:[Zwift Climb] Pas de Peyrol/Puy Mary (500 XP) - Climb of the Week
  (France)
 DTSTART:20261123
 DTEND:20261124
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261123-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Pas de Peyrol/Puy Mary\nType: Climb of the
@@ -894,7 +894,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Pas de Peyrol/Puy Mary - Daily Climb (Watopia)
 DTSTART:20261124
 DTEND:20261125
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261124-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Pas de Peyrol/Puy Mary\nType: Daily Climb
@@ -907,7 +907,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261124
 DTEND:20261125
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261124-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -920,7 +920,7 @@ SUMMARY:[Zwift Climb] Pas de Peyrol/Puy Mary (500 XP) - Climb of the Week
  (France)
 DTSTART:20261124
 DTEND:20261125
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261124-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Pas de Peyrol/Puy Mary\nType: Climb of the
@@ -933,7 +933,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Platzerwasel - Daily Climb (Watopia)
 DTSTART:20261125
 DTEND:20261126
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261125-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col du Platzerwasel\nType: Daily Climb\nWo
@@ -945,7 +945,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261125
 DTEND:20261126
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261125-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -958,7 +958,7 @@ SUMMARY:[Zwift Climb] Pas de Peyrol/Puy Mary (500 XP) - Climb of the Week
  (France)
 DTSTART:20261125
 DTEND:20261126
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261125-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Pas de Peyrol/Puy Mary\nType: Climb of the
@@ -971,7 +971,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] La Laguna Negra - Daily Climb (Watopia)
 DTSTART:20261126
 DTEND:20261127
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261126-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: La Laguna Negra\nType: Daily Climb\nWorld:
@@ -983,7 +983,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261126
 DTEND:20261127
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261126-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -996,7 +996,7 @@ SUMMARY:[Zwift Climb] Pas de Peyrol/Puy Mary (500 XP) - Climb of the Week
  (France)
 DTSTART:20261126
 DTEND:20261127
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261126-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Pas de Peyrol/Puy Mary\nType: Climb of the
@@ -1009,7 +1009,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Poggio - Daily Climb (Watopia)
 DTSTART:20261127
 DTEND:20261128
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261127-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Poggio\nType: Daily Climb\nWorld: Watopia
@@ -1021,7 +1021,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261127
 DTEND:20261128
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261127-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -1034,7 +1034,7 @@ SUMMARY:[Zwift Climb] Pas de Peyrol/Puy Mary (500 XP) - Climb of the Week
  (France)
 DTSTART:20261127
 DTEND:20261128
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261127-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Pas de Peyrol/Puy Mary\nType: Climb of the
@@ -1047,7 +1047,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col d’Aspin - Daily Climb (Watopia)
 DTSTART:20261128
 DTEND:20261129
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261128-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col d’Aspin\nType: Daily Climb\nWorld: W
@@ -1059,7 +1059,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261128
 DTEND:20261129
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261128-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -1072,7 +1072,7 @@ SUMMARY:[Zwift Climb] Pas de Peyrol/Puy Mary (500 XP) - Climb of the Week
  (France)
 DTSTART:20261128
 DTEND:20261129
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261128-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Pas de Peyrol/Puy Mary\nType: Climb of the
@@ -1085,7 +1085,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Galibier (Lautaret) - Daily Climb (Watopia)
 DTSTART:20261129
 DTEND:20261130
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261129-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Lautaret)\nType: Daily Cl
@@ -1098,7 +1098,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261129
 DTEND:20261130
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261129-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -1111,7 +1111,7 @@ SUMMARY:[Zwift Climb] Pas de Peyrol/Puy Mary (500 XP) - Climb of the Week
  (France)
 DTSTART:20261129
 DTEND:20261130
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261129-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Pas de Peyrol/Puy Mary\nType: Climb of the
@@ -1124,7 +1124,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Cote de Domancy - Daily Climb (Watopia)
 DTSTART:20261130
 DTEND:20261201
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261130-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Cote de Domancy\nType: Daily Climb\nWorld:
@@ -1136,7 +1136,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hautacam - Climb of the Month (France)
 DTSTART:20261130
 DTEND:20261201
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261130-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Hautacam\nType: Climb of the Month\nWorld:
@@ -1148,7 +1148,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col de Aravis (250 XP) - Climb of the Week (France)
 DTSTART:20261130
 DTEND:20261201
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261130-370@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Week
 DESCRIPTION:Zwift Climb Portal: Col de Aravis\nType: Climb of the Week\nWo
@@ -1161,7 +1161,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Montée du Chinaillon - Daily Climb (Watopia)
 DTSTART:20261201
 DTEND:20261202
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261201-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Montée du Chinaillon\nType: Daily Climb\n
@@ -1173,7 +1173,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261201
 DTEND:20261202
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261201-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1183,23 +1183,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Col de Aravis (250 XP) - Climb of the Week (France)
-DTSTART:20261201
-DTEND:20261202
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261201-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Col de Aravis\nType: Climb of the Week\nWo
- rld: France\nBonus: 250 XP\nMore info: https://zwiftinsider.com/portal/col
- -des-aravis/\n\nSchedule source: https://zwiftinsider.com/climb-portal-sch
- edule/
-URL:https://zwiftinsider.com/portal/col-des-aravis/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Cipressa - Daily Climb (Watopia)
 DTSTART:20261202
 DTEND:20261203
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261202-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Cipressa\nType: Daily Climb\nWorld: Watopi
@@ -1211,7 +1198,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261202
 DTEND:20261203
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261202-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1221,23 +1208,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Col de Aravis (250 XP) - Climb of the Week (France)
-DTSTART:20261202
-DTEND:20261203
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261202-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Col de Aravis\nType: Climb of the Week\nWo
- rld: France\nBonus: 250 XP\nMore info: https://zwiftinsider.com/portal/col
- -des-aravis/\n\nSchedule source: https://zwiftinsider.com/climb-portal-sch
- edule/
-URL:https://zwiftinsider.com/portal/col-des-aravis/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Bealach na Ba - Daily Climb (Watopia)
 DTSTART:20261203
 DTEND:20261204
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261203-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Bealach na Ba\nType: Daily Climb\nWorld: W
@@ -1249,7 +1223,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261203
 DTEND:20261204
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261203-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1259,23 +1233,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Col de Aravis (250 XP) - Climb of the Week (France)
-DTSTART:20261203
-DTEND:20261204
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261203-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Col de Aravis\nType: Climb of the Week\nWo
- rld: France\nBonus: 250 XP\nMore info: https://zwiftinsider.com/portal/col
- -des-aravis/\n\nSchedule source: https://zwiftinsider.com/climb-portal-sch
- edule/
-URL:https://zwiftinsider.com/portal/col-des-aravis/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Old la Honda - Daily Climb (Watopia)
 DTSTART:20261204
 DTEND:20261205
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261204-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Old la Honda\nType: Daily Climb\nWorld: Wa
@@ -1287,7 +1248,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261204
 DTEND:20261205
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261204-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1297,23 +1258,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Col de Aravis (250 XP) - Climb of the Week (France)
-DTSTART:20261204
-DTEND:20261205
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261204-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Col de Aravis\nType: Climb of the Week\nWo
- rld: France\nBonus: 250 XP\nMore info: https://zwiftinsider.com/portal/col
- -des-aravis/\n\nSchedule source: https://zwiftinsider.com/climb-portal-sch
- edule/
-URL:https://zwiftinsider.com/portal/col-des-aravis/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col de la Madone - Daily Climb (Watopia)
 DTSTART:20261205
 DTEND:20261206
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261205-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col de la Madone\nType: Daily Climb\nWorld
@@ -1325,7 +1273,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261205
 DTEND:20261206
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261205-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1335,23 +1283,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Col de Aravis (250 XP) - Climb of the Week (France)
-DTSTART:20261205
-DTEND:20261206
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261205-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Col de Aravis\nType: Climb of the Week\nWo
- rld: France\nBonus: 250 XP\nMore info: https://zwiftinsider.com/portal/col
- -des-aravis/\n\nSchedule source: https://zwiftinsider.com/climb-portal-sch
- edule/
-URL:https://zwiftinsider.com/portal/col-des-aravis/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Tourmalet - Daily Climb (Watopia)
 DTSTART:20261206
 DTEND:20261207
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261206-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col du Tourmalet\nType: Daily Climb\nWorld
@@ -1363,7 +1298,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261206
 DTEND:20261207
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261206-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1373,23 +1308,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Col de Aravis (250 XP) - Climb of the Week (France)
-DTSTART:20261206
-DTEND:20261207
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261206-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Col de Aravis\nType: Climb of the Week\nWo
- rld: France\nBonus: 250 XP\nMore info: https://zwiftinsider.com/portal/col
- -des-aravis/\n\nSchedule source: https://zwiftinsider.com/climb-portal-sch
- edule/
-URL:https://zwiftinsider.com/portal/col-des-aravis/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Cote de Pike - Daily Climb (Watopia)
 DTSTART:20261207
 DTEND:20261208
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261207-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Cote de Pike\nType: Daily Climb\nWorld: Wa
@@ -1399,7 +1321,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261207
 DTEND:20261208
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261207-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1409,24 +1331,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Col du Platzerwasel (500 XP) - Climb of the Week (Fr
- ance)
-DTSTART:20261207
-DTEND:20261208
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261207-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Col du Platzerwasel\nType: Climb of the We
- ek\nWorld: France\nBonus: 500 XP\nMore info: https://zwiftinsider.com/port
- al/col-du-platzerwasel/\n\nSchedule source: https://zwiftinsider.com/climb
- -portal-schedule/
-URL:https://zwiftinsider.com/portal/col-du-platzerwasel/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Puy de Dome - Daily Climb (Watopia)
 DTSTART:20261208
 DTEND:20261209
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261208-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Puy de Dome\nType: Daily Climb\nWorld: Wat
@@ -1438,7 +1346,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261208
 DTEND:20261209
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261208-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1448,24 +1356,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Col du Platzerwasel (500 XP) - Climb of the Week (Fr
- ance)
-DTSTART:20261208
-DTEND:20261209
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261208-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Col du Platzerwasel\nType: Climb of the We
- ek\nWorld: France\nBonus: 500 XP\nMore info: https://zwiftinsider.com/port
- al/col-du-platzerwasel/\n\nSchedule source: https://zwiftinsider.com/climb
- -portal-schedule/
-URL:https://zwiftinsider.com/portal/col-du-platzerwasel/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col de Platzerwasel - Daily Climb (Watopia)
 DTSTART:20261209
 DTEND:20261210
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261209-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col de Platzerwasel\nType: Daily Climb\nWo
@@ -1477,7 +1371,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261209
 DTEND:20261210
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261209-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1487,24 +1381,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Col du Platzerwasel (500 XP) - Climb of the Week (Fr
- ance)
-DTSTART:20261209
-DTEND:20261210
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261209-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Col du Platzerwasel\nType: Climb of the We
- ek\nWorld: France\nBonus: 500 XP\nMore info: https://zwiftinsider.com/port
- al/col-du-platzerwasel/\n\nSchedule source: https://zwiftinsider.com/climb
- -portal-schedule/
-URL:https://zwiftinsider.com/portal/col-du-platzerwasel/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Old Willunga Hill - Daily Climb (Watopia)
 DTSTART:20261210
 DTEND:20261211
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261210-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Old Willunga Hill\nType: Daily Climb\nWorl
@@ -1516,7 +1396,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261210
 DTEND:20261211
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261210-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1526,24 +1406,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Col du Platzerwasel (500 XP) - Climb of the Week (Fr
- ance)
-DTSTART:20261210
-DTEND:20261211
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261210-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Col du Platzerwasel\nType: Climb of the We
- ek\nWorld: France\nBonus: 500 XP\nMore info: https://zwiftinsider.com/port
- al/col-du-platzerwasel/\n\nSchedule source: https://zwiftinsider.com/climb
- -portal-schedule/
-URL:https://zwiftinsider.com/portal/col-du-platzerwasel/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] La Laguna Negra - Daily Climb (Watopia)
 DTSTART:20261211
 DTEND:20261212
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261211-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: La Laguna Negra\nType: Daily Climb\nWorld:
@@ -1555,7 +1421,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261211
 DTEND:20261212
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261211-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1565,24 +1431,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Col du Platzerwasel (500 XP) - Climb of the Week (Fr
- ance)
-DTSTART:20261211
-DTEND:20261212
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261211-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Col du Platzerwasel\nType: Climb of the We
- ek\nWorld: France\nBonus: 500 XP\nMore info: https://zwiftinsider.com/port
- al/col-du-platzerwasel/\n\nSchedule source: https://zwiftinsider.com/climb
- -portal-schedule/
-URL:https://zwiftinsider.com/portal/col-du-platzerwasel/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Crow Road - Daily Climb (Watopia)
 DTSTART:20261212
 DTEND:20261213
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261212-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Crow Road\nType: Daily Climb\nWorld: Watop
@@ -1594,7 +1446,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261212
 DTEND:20261213
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261212-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1604,24 +1456,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Col du Platzerwasel (500 XP) - Climb of the Week (Fr
- ance)
-DTSTART:20261212
-DTEND:20261213
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261212-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Col du Platzerwasel\nType: Climb of the We
- ek\nWorld: France\nBonus: 500 XP\nMore info: https://zwiftinsider.com/port
- al/col-du-platzerwasel/\n\nSchedule source: https://zwiftinsider.com/climb
- -portal-schedule/
-URL:https://zwiftinsider.com/portal/col-du-platzerwasel/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col de Peyresourde (Avajan) - Daily Climb (Watopia)
 DTSTART:20261213
 DTEND:20261214
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261213-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col de Peyresourde (Avajan)\nType: Daily C
@@ -1634,7 +1472,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261213
 DTEND:20261214
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261213-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1644,24 +1482,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Col du Platzerwasel (500 XP) - Climb of the Week (Fr
- ance)
-DTSTART:20261213
-DTEND:20261214
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261213-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Col du Platzerwasel\nType: Climb of the We
- ek\nWorld: France\nBonus: 500 XP\nMore info: https://zwiftinsider.com/port
- al/col-du-platzerwasel/\n\nSchedule source: https://zwiftinsider.com/climb
- -portal-schedule/
-URL:https://zwiftinsider.com/portal/col-du-platzerwasel/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Pla d'Adet - Daily Climb (Watopia)
 DTSTART:20261214
 DTEND:20261215
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261214-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Pla d'Adet\nType: Daily Climb\nWorld: Wato
@@ -1673,7 +1497,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261214
 DTEND:20261215
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261214-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1683,23 +1507,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Cheddar Gorge (250 XP) - Climb of the Week (France)
-DTSTART:20261214
-DTEND:20261215
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261214-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Cheddar Gorge\nType: Climb of the Week\nWo
- rld: France\nBonus: 250 XP\nMore info: https://zwiftinsider.com/portal/che
- ddar-gorge/\n\nSchedule source: https://zwiftinsider.com/climb-portal-sche
- dule/
-URL:https://zwiftinsider.com/portal/cheddar-gorge/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Côte des Forche - Daily Climb (Watopia)
 DTSTART:20261215
 DTEND:20261216
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261215-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Côte des Forche\nType: Daily Climb\nWorld
@@ -1711,7 +1522,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261215
 DTEND:20261216
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261215-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1721,23 +1532,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Cheddar Gorge (250 XP) - Climb of the Week (France)
-DTSTART:20261215
-DTEND:20261216
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261215-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Cheddar Gorge\nType: Climb of the Week\nWo
- rld: France\nBonus: 250 XP\nMore info: https://zwiftinsider.com/portal/che
- ddar-gorge/\n\nSchedule source: https://zwiftinsider.com/climb-portal-sche
- dule/
-URL:https://zwiftinsider.com/portal/cheddar-gorge/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Rosier - Daily Climb (Watopia)
 DTSTART:20261216
 DTEND:20261217
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261216-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col du Rosier\nType: Daily Climb\nWorld: W
@@ -1749,7 +1547,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261216
 DTEND:20261217
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261216-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1759,23 +1557,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Cheddar Gorge (250 XP) - Climb of the Week (France)
-DTSTART:20261216
-DTEND:20261217
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261216-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Cheddar Gorge\nType: Climb of the Week\nWo
- rld: France\nBonus: 250 XP\nMore info: https://zwiftinsider.com/portal/che
- ddar-gorge/\n\nSchedule source: https://zwiftinsider.com/climb-portal-sche
- dule/
-URL:https://zwiftinsider.com/portal/cheddar-gorge/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Isola 2000 - Daily Climb (Watopia)
 DTSTART:20261217
 DTEND:20261218
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261217-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Isola 2000\nType: Daily Climb\nWorld: Wato
@@ -1787,7 +1572,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261217
 DTEND:20261218
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261217-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1797,23 +1582,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Cheddar Gorge (250 XP) - Climb of the Week (France)
-DTSTART:20261217
-DTEND:20261218
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261217-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Cheddar Gorge\nType: Climb of the Week\nWo
- rld: France\nBonus: 250 XP\nMore info: https://zwiftinsider.com/portal/che
- ddar-gorge/\n\nSchedule source: https://zwiftinsider.com/climb-portal-sche
- dule/
-URL:https://zwiftinsider.com/portal/cheddar-gorge/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col de la Couillole - Daily Climb (Watopia)
 DTSTART:20261218
 DTEND:20261219
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261218-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col de la Couillole\nType: Daily Climb\nWo
@@ -1825,7 +1597,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261218
 DTEND:20261219
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261218-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1835,23 +1607,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Cheddar Gorge (250 XP) - Climb of the Week (France)
-DTSTART:20261218
-DTEND:20261219
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261218-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Cheddar Gorge\nType: Climb of the Week\nWo
- rld: France\nBonus: 250 XP\nMore info: https://zwiftinsider.com/portal/che
- ddar-gorge/\n\nSchedule source: https://zwiftinsider.com/climb-portal-sche
- dule/
-URL:https://zwiftinsider.com/portal/cheddar-gorge/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] La Turbie/Col d'Eze - Daily Climb (Watopia)
 DTSTART:20261219
 DTEND:20261220
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261219-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: La Turbie/Col d'Eze\nType: Daily Climb\nWo
@@ -1863,7 +1622,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261219
 DTEND:20261220
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261219-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1873,23 +1632,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Cheddar Gorge (250 XP) - Climb of the Week (France)
-DTSTART:20261219
-DTEND:20261220
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261219-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Cheddar Gorge\nType: Climb of the Week\nWo
- rld: France\nBonus: 250 XP\nMore info: https://zwiftinsider.com/portal/che
- ddar-gorge/\n\nSchedule source: https://zwiftinsider.com/climb-portal-sche
- dule/
-URL:https://zwiftinsider.com/portal/cheddar-gorge/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Gotthard Pass - Daily Climb (Watopia)
 DTSTART:20261220
 DTEND:20261221
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261220-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Gotthard Pass\nType: Daily Climb\nWorld: W
@@ -1901,7 +1647,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261220
 DTEND:20261221
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261220-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1911,23 +1657,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] Cheddar Gorge (250 XP) - Climb of the Week (France)
-DTSTART:20261220
-DTEND:20261221
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261220-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: Cheddar Gorge\nType: Climb of the Week\nWo
- rld: France\nBonus: 250 XP\nMore info: https://zwiftinsider.com/portal/che
- ddar-gorge/\n\nSchedule source: https://zwiftinsider.com/climb-portal-sche
- dule/
-URL:https://zwiftinsider.com/portal/cheddar-gorge/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Oude Kwaremont - Daily Climb (Watopia)
 DTSTART:20261221
 DTEND:20261222
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261221-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Oude Kwaremont\nType: Daily Climb\nWorld: 
@@ -1939,7 +1672,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261221
 DTEND:20261222
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261221-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1949,24 +1682,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] La Super Planche des Belles Filles (500 XP) - Climb 
- of the Week (France)
-DTSTART:20261221
-DTEND:20261222
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261221-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: La Super Planche des Belles Filles\nType: 
- Climb of the Week\nWorld: France\nBonus: 500 XP\nMore info: https://zwifti
- nsider.com/portal/la-super-planche-des-belles-filles/\n\nSchedule source: 
- https://zwiftinsider.com/climb-portal-schedule/
-URL:https://zwiftinsider.com/portal/la-super-planche-des-belles-filles/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Poggio - Daily Climb (Watopia)
 DTSTART:20261222
 DTEND:20261223
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261222-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Poggio\nType: Daily Climb\nWorld: Watopia
@@ -1978,7 +1697,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261222
 DTEND:20261223
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261222-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -1988,24 +1707,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] La Super Planche des Belles Filles (500 XP) - Climb 
- of the Week (France)
-DTSTART:20261222
-DTEND:20261223
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261222-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: La Super Planche des Belles Filles\nType: 
- Climb of the Week\nWorld: France\nBonus: 500 XP\nMore info: https://zwifti
- nsider.com/portal/la-super-planche-des-belles-filles/\n\nSchedule source: 
- https://zwiftinsider.com/climb-portal-schedule/
-URL:https://zwiftinsider.com/portal/la-super-planche-des-belles-filles/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Alto de Patios - Daily Climb (Watopia)
 DTSTART:20261223
 DTEND:20261224
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261223-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Alto de Patios\nType: Daily Climb\nWorld: 
@@ -2017,7 +1722,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261223
 DTEND:20261224
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261223-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -2027,24 +1732,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] La Super Planche des Belles Filles (500 XP) - Climb 
- of the Week (France)
-DTSTART:20261223
-DTEND:20261224
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261223-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: La Super Planche des Belles Filles\nType: 
- Climb of the Week\nWorld: France\nBonus: 500 XP\nMore info: https://zwifti
- nsider.com/portal/la-super-planche-des-belles-filles/\n\nSchedule source: 
- https://zwiftinsider.com/climb-portal-schedule/
-URL:https://zwiftinsider.com/portal/la-super-planche-des-belles-filles/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Hardknott Pass - Daily Climb (Watopia)
 DTSTART:20261224
 DTEND:20261225
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261224-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Hardknott Pass\nType: Daily Climb\nWorld: 
@@ -2056,7 +1747,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261224
 DTEND:20261225
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261224-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -2066,24 +1757,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] La Super Planche des Belles Filles (500 XP) - Climb 
- of the Week (France)
-DTSTART:20261224
-DTEND:20261225
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261224-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: La Super Planche des Belles Filles\nType: 
- Climb of the Week\nWorld: France\nBonus: 500 XP\nMore info: https://zwifti
- nsider.com/portal/la-super-planche-des-belles-filles/\n\nSchedule source: 
- https://zwiftinsider.com/climb-portal-schedule/
-URL:https://zwiftinsider.com/portal/la-super-planche-des-belles-filles/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Rocacorba - Daily Climb (Watopia)
 DTSTART:20261225
 DTEND:20261226
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261225-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Rocacorba\nType: Daily Climb\nWorld: Watop
@@ -2095,7 +1772,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261225
 DTEND:20261226
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261225-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -2105,24 +1782,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] La Super Planche des Belles Filles (500 XP) - Climb 
- of the Week (France)
-DTSTART:20261225
-DTEND:20261226
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261225-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: La Super Planche des Belles Filles\nType: 
- Climb of the Week\nWorld: France\nBonus: 500 XP\nMore info: https://zwifti
- nsider.com/portal/la-super-planche-des-belles-filles/\n\nSchedule source: 
- https://zwiftinsider.com/climb-portal-schedule/
-URL:https://zwiftinsider.com/portal/la-super-planche-des-belles-filles/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] La Super Planche - Daily Climb (Watopia)
 DTSTART:20261226
 DTEND:20261227
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261226-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: La Super Planche\nType: Daily Climb\nWorld
@@ -2135,7 +1798,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261226
 DTEND:20261227
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261226-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -2145,24 +1808,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] La Super Planche des Belles Filles (500 XP) - Climb 
- of the Week (France)
-DTSTART:20261226
-DTEND:20261227
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261226-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: La Super Planche des Belles Filles\nType: 
- Climb of the Week\nWorld: France\nBonus: 500 XP\nMore info: https://zwifti
- nsider.com/portal/la-super-planche-des-belles-filles/\n\nSchedule source: 
- https://zwiftinsider.com/climb-portal-schedule/
-URL:https://zwiftinsider.com/portal/la-super-planche-des-belles-filles/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Lagos de Covadonga - Daily Climb (Watopia)
 DTSTART:20261227
 DTEND:20261228
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261227-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Lagos de Covadonga\nType: Daily Climb\nWor
@@ -2174,7 +1823,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261227
 DTEND:20261228
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261227-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -2184,24 +1833,10 @@ DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
 URL:https://zwiftinsider.com/portal/col-du-telegraphe/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Zwift Climb] La Super Planche des Belles Filles (500 XP) - Climb 
- of the Week (France)
-DTSTART:20261227
-DTEND:20261228
-DTSTAMP:20261125T015551Z
-UID:zwift-climb-20261227-370@climbportal
-CATEGORIES:Zwift,Cycling,Climb of the Week
-DESCRIPTION:Zwift Climb Portal: La Super Planche des Belles Filles\nType: 
- Climb of the Week\nWorld: France\nBonus: 500 XP\nMore info: https://zwifti
- nsider.com/portal/la-super-planche-des-belles-filles/\n\nSchedule source: 
- https://zwiftinsider.com/climb-portal-schedule/
-URL:https://zwiftinsider.com/portal/la-super-planche-des-belles-filles/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Cote de Domancy - Daily Climb (Watopia)
 DTSTART:20261228
 DTEND:20261229
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261228-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Cote de Domancy\nType: Daily Climb\nWorld:
@@ -2213,7 +1848,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261228
 DTEND:20261229
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261228-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -2226,7 +1861,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col de la Croix de Fer - Daily Climb (Watopia)
 DTSTART:20261229
 DTEND:20261230
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261229-365@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col de la Croix de Fer\nType: Daily Climb
@@ -2239,7 +1874,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261229
 DTEND:20261230
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261229-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -2252,7 +1887,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Galibier (Valloire) - Daily Climb (Watopia)
 DTSTART:20261230
 DTEND:20261231
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261230-363@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Col du Galibier (Valloire)\nType: Daily Cl
@@ -2265,7 +1900,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261230
 DTEND:20261231
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261230-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
@@ -2278,7 +1913,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Mûr De Bretagne - Daily Climb (Watopia)
 DTSTART:20261231
 DTEND:20270101
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261231-364@climbportal
 CATEGORIES:Zwift,Cycling,Daily Climb
 DESCRIPTION:Zwift Climb Portal: Mûr De Bretagne\nType: Daily Climb\nWorld
@@ -2290,7 +1925,7 @@ BEGIN:VEVENT
 SUMMARY:[Zwift Climb] Col du Télégraphe - Climb of the Month (France)
 DTSTART:20261231
 DTEND:20270101
-DTSTAMP:20261125T015551Z
+DTSTAMP:20261126T013554Z
 UID:zwift-climb-20261231-366@climbportal
 CATEGORIES:Zwift,Cycling,Climb of the Month
 DESCRIPTION:Zwift Climb Portal: Col du Télégraphe\nType: Climb of the Mo
